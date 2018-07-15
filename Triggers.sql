@@ -4314,31 +4314,6 @@ begin
     select "EBA_PROJECT_STATUS_END_SEQ".nextval into :NEW."ID" from sys.dual; 
   end if; 
 end; 
-
-/
-ALTER TRIGGER  "BI_EBA_PROJECT_STATUS_END" ENABLE
-/
-CREATE OR REPLACE TRIGGER  "DEPT_TRG1" 
-              before insert on dept
-              for each row
-              begin
-                  if :new.deptno is null then
-                      select dept_seq.nextval into :new.deptno from sys.dual;
-                 end if;
-              end;
-/
-ALTER TRIGGER  "DEPT_TRG1" ENABLE
-/
-CREATE OR REPLACE TRIGGER  "EMP_TRG1" 
-              before insert on emp
-              for each row
-              begin
-                  if :new.empno is null then
-                      select emp_seq.nextval into :new.empno from sys.dual;
-                 end if;
-              end;
-/
-ALTER TRIGGER  "EMP_TRG1" ENABLE
 /
 CREATE OR REPLACE TRIGGER  "EBA_ASSETPERSONNEL_BIU" 
     before insert or update on EBA_ASSETPERSONNEL

@@ -139634,20 +139634,11 @@ Table altered.
 **************************************************
 Creating Sequences
 **************************************************
+ DROP SEQUENCE   "CER_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
 
-Sequence dropped.
-
-
-Sequence dropped.
-
-
-Sequence dropped.
-
-
-Sequence dropped.
-
-
-Sequence dropped.
 
 
 Sequence dropped.
@@ -139655,26 +139646,71 @@ Sequence dropped.
 
 Sequence dropped.
 
-
-Sequence dropped.
-
-
-Sequence dropped.
-
-
-Sequence dropped.
+ DROP SEQUENCE   "EBA_ASSETPERSONNEL_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
 
 
-Sequence dropped.
+ DROP SEQUENCE   "EBA_DHB_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
 
 
-Sequence dropped.
+ DROP SEQUENCE   "EBA_DECISIONS_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
 
 
-Sequence dropped.
+ DROP SEQUENCE   "LOCATION_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
 
 
-Sequence dropped.
+ DROP SEQUENCE   "EBA_ENDORSEMENT_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+ DROP SEQUENCE   "EBA_PROJ_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+ DROP SEQUENCE   "EBA_DIVISION_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+ DROP SEQUENCE   "EBA_SERVICE_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+ DROP SEQUENCE   "EBA_ITEM_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+ DROP SEQUENCE   "EBA_REALLOC_ITEM_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
+
+ DROP SEQUENCE   "EBA_PROJECT_STATUS_END_SEQ"
+                 *
+ERROR at line 1:
+ORA-02289: sequence does not exist 
+
 
 
 Sequence created.
@@ -139728,7 +139764,7 @@ View created.
 View created.
 
 
-View created.
+Warning: View created with compilation errors.
 
 
 View created.
@@ -139770,7 +139806,13 @@ Creating Packages
 Package created.
 
 
-Package body created.
+Warning: Package Body created with compilation errors.
+
+
+Package created.
+
+
+Warning: Package Body created with compilation errors.
 
 
 Package created.
@@ -139809,16 +139851,10 @@ Package created.
 Package body created.
 
 
-Package created.
+Warning: Package created with compilation errors.
 
 
-Package body created.
-
-
-Package created.
-
-
-Package body created.
+Warning: Package Body created with compilation errors.
 
 
 Package created.
@@ -139827,10 +139863,10 @@ Package created.
 Package body created.
 
 
-Package created.
+Warning: Package created with compilation errors.
 
 
-Package body created.
+Warning: Package Body created with compilation errors.
 
 
 Package created.
