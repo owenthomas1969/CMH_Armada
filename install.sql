@@ -68,6 +68,13 @@ prompt      Creating Types
 prompt **************************************************
 @Types.sql
 
+prompt **************************************************
+prompt      Creating Users
+prompt **************************************************
+@users.sql
+
+
 commit;
 
 spool off
+exit;
