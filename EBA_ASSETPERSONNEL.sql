@@ -5249,3 +5249,62 @@ begin
 
 end;
 /
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!601!';
+  l_varchar2(2) :=q'!4!';
+  l_clob(3) :=q'!John!';
+  l_clob(4) :=q'!Raine!';
+  l_clob(5) :=q'!N!';
+  l_clob(6) :=q'!Y!';
+  l_clob(7) :=q'!N!';
+  l_clob(8) :=q'!N!';
+  l_varchar2(9) :=q'!05.08.2018 20:17:00!';
+  l_clob(10) :=q'!ROY.MALTO@MIDDLEMORE.CO.NZ!';
+  l_varchar2(11) :=q'!05.08.2018 20:17:00!';
+  l_clob(12) :=q'!ROY.MALTO@MIDDLEMORE.CO.NZ!';
+  l_clob(13) :=q'!N!';
+  l_clob(14) :=q'!Y!';
+
+  insert into ASSETS.EBA_ASSETPERSONNEL
+  (
+     ASSETPERSONNEL_ID
+    ,DHB_ID
+    ,FIRSTNAME
+    ,LASTNAME
+    ,SERVICEMANAGER
+    ,BUSINESSMANAGER
+    ,BUDGETHOLDER
+    ,SIGNATORY
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+    ,ASSIGNED_TO
+    ,ENDORSED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_char(l_clob(4))
+    ,to_char(l_clob(5))
+    ,to_char(l_clob(6))
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_date(l_varchar2(9),'DD.MM.YYYY HH24:MI:SS')
+    ,to_char(l_clob(10))
+    ,to_date(l_varchar2(11),'DD.MM.YYYY HH24:MI:SS')
+    ,to_char(l_clob(12))
+    ,to_char(l_clob(13))
+    ,to_char(l_clob(14))
+  );
+
+end;
+/

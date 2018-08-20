@@ -7070,7 +7070,7 @@ begin
   l_varchar2(2) :=q'!1!';
   l_clob(3) :=q'!AROZ!';
   l_varchar2(4) :=q'!136717859039437680803569246478554369089!';
-  l_clob(5) :=q'!20Mar18 - Timneen has sent an email to Shirley/Nettie today clarifying the DFA. ""The new DFA policy has not been approved by the Minister and therefore is not yet enforceable. Please use the following/old/current $ DFA limits."" Margaret's signature is not required on this CER.!';
+  l_clob(5) :=q'!20Mar18 - Timneen has sent an email to Shirley/Nettie today clarifying the DFA. The new DFA policy has not been approved by the Minister and therefore is not yet enforceable. Please use the following/old/current $ DFA limits. Margaret's signature is not required on this CER.!';
   l_varchar2(6) :=q'!20.03.2018 00:03:30.455557000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
   l_clob(8) :=q'!Y!';
@@ -14228,7 +14228,7 @@ begin
   l_clob(3) :=q'!AUFY!';
   l_varchar2(4) :=q'!131304126553947059526927757482719472215!';
   l_clob(5) :=q'!17Apr18 - Shirley following up on where CER form has progressed to. Emailed Kathy Pritchard. Reply from Kathy on 17/4/18:
-""The specimen radiology system was definitely sent to Phillip Balmer for signing, Linda, Brad and I have signed it.""
+The specimen radiology system was definitely sent to Phillip Balmer for signing, Linda, Brad and I have signed it.
 Emailed Christine Lockhart on 17/4/18 to check that she has it pending Phillip Balmer's signature.   !';
   l_varchar2(6) :=q'!17.04.2018 05:38:42.252774000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
@@ -25256,7 +25256,7 @@ begin
   l_varchar2(2) :=q'!1!';
   l_clob(3) :=q'!A0ZZ!';
   l_varchar2(4) :=q'!130683776021588240598181955296400535987!';
-  l_clob(5) :=q'!22/05/18 - Louis sent through email from Procurement advising ultrasounds don't need to go to tender due to the fact they are part of a national contract. Email has been saved under ""Leased Equipment, correspondence"" in the Asset Team inbox.!';
+  l_clob(5) :=q'!22/05/18 - Louis sent through email from Procurement advising ultrasounds don't need to go to tender due to the fact they are part of a national contract. Email has been saved under Leased Equipment, correspondence in the Asset Team inbox.!';
   l_varchar2(6) :=q'!22.05.2018 20:42:26.343671000 +00:00!';
   l_clob(7) :=q'!bessie.pone@middlemore.co.nz!';
   l_clob(8) :=q'!Y!';
@@ -36812,7 +36812,7 @@ begin
   l_clob(3) :=q'!AVTL!';
   l_varchar2(4) :=q'!130680092265825671622030273253502394695!';
   l_clob(5) :=q'!30Apr18 - Although endorsed, procurement have x 2 queries with this CER which need checking with CE before going out for signatures. 
-1) Zarin Sukhia has asked ""Should there be a different quote attached for a paediatric gastroscope?"" 
+1) Zarin Sukhia has asked Should there be a different quote attached for a paediatric gastroscope? 
 2) The annual service charge is $5421 pa - this is not on the CER form. I have emailed Zarin to ask where this info has come from. !';
   l_varchar2(6) :=q'!30.04.2018 04:34:57.784547000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
@@ -37559,7 +37559,7 @@ begin
   l_varchar2(2) :=q'!1!';
   l_clob(3) :=q'!AV3C!';
   l_varchar2(4) :=q'!130682570297254259946933398927764678186!';
-  l_clob(5) :=q'!02May18 - Approval memo states: ""subsequent to the meeting, decision made to hold this to the 2018/19 year.""!';
+  l_clob(5) :=q'!02May18 - Approval memo states: subsequent to the meeting, decision made to hold this to the 2018/19 year.!';
   l_varchar2(6) :=q'!01.05.2018 20:02:26.916897000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
   l_clob(8) :=q'!Y!';
@@ -43400,7 +43400,7 @@ begin
   l_clob(3) :=q'!AJBK!';
   l_varchar2(4) :=q'!126185188766194295454215927753102639020!';
   l_clob(5) :=q'!18/1/18 - New requisition raised 938980 - as Charity in Purchasing became confused by the 2 quotes and changed our requisition 938362. She duplicated 1 x item. 
-Also Antoinette from Purchasing advised that the freight should be ""goods or services billed by amount"" and not ""goods billed by quantity"" so this has been amended. !';
+Also Antoinette from Purchasing advised that the freight should be goods or services billed by amount and not goods billed by quantity so this has been amended. !';
   l_varchar2(6) :=q'!17.01.2018 23:33:00.929457000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
   l_clob(8) :=q'!Y!';
@@ -44766,7 +44766,7 @@ begin
   l_varchar2(2) :=q'!2!';
   l_clob(3) :=q'!AJT9!';
   l_varchar2(4) :=q'!125870074422398286393216102427987293538!';
-  l_clob(5) :=q'!24Jan18 - Reply from Fiona Kitchin as follows: ""I checked last week with Mark Shirley who let me know that the company was only opening this week.  I’ll chase him up for it.""!';
+  l_clob(5) :=q'!24Jan18 - Reply from Fiona Kitchin as follows: I checked last week with Mark Shirley who let me know that the company was only opening this week.  I’ll chase him up for it.!';
   l_varchar2(6) :=q'!23.01.2018 19:43:00.000000000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
   l_clob(8) :=q'!Y!';
@@ -59710,7 +59710,7 @@ begin
   l_varchar2(2) :=q'!1!';
   l_clob(3) :=q'!A3SK!';
   l_varchar2(4) :=q'!144645778529657473570267543950464966010!';
-  l_clob(5) :=q'!06Jun18 - Kerry is working on a maintenance contract with the supplier. Order can be placed however we need to make a note on the PO that the order is ""subject to execution of a contract"".!';
+  l_clob(5) :=q'!06Jun18 - Kerry is working on a maintenance contract with the supplier. Order can be placed however we need to make a note on the PO that the order is subject to execution of a contract.!';
   l_varchar2(6) :=q'!06.06.2018 23:22:58.357873000 +00:00!';
   l_clob(7) :=q'!bessie.pone@middlemore.co.nz!';
   l_clob(8) :=q'!Y!';
@@ -62465,7 +62465,7 @@ begin
   l_varchar2(2) :=q'!2!';
   l_clob(3) :=q'!A4KF!';
   l_varchar2(4) :=q'!143312444135460628242786694497991168806!';
-  l_clob(5) :=q'!12Jun18 - Checking location code with Mary Murdie. On CER it has ""Intermediary Care Stroke Rehabilitation"" which is not a code that can be entered in Oracle.!';
+  l_clob(5) :=q'!12Jun18 - Checking location code with Mary Murdie. On CER it has Intermediary Care Stroke Rehabilitation which is not a code that can be entered in Oracle.!';
   l_varchar2(6) :=q'!11.06.2018 20:14:00.000000000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
   l_clob(8) :=q'!Y!';
@@ -67265,7 +67265,7 @@ begin
   l_varchar2(2) :=q'!1!';
   l_clob(3) :=q'!A5XV!';
   l_varchar2(4) :=q'!145605014941331393154401077379486974553!';
-  l_clob(5) :=q'!20Jun18 - This was approved ""in between meetings.""!';
+  l_clob(5) :=q'!20Jun18 - This was approved in between meetings.!';
   l_varchar2(6) :=q'!20.06.2018 00:41:57.444642000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
   l_clob(8) :=q'!Y!';
@@ -73116,7 +73116,7 @@ begin
   l_varchar2(2) :=q'!2!';
   l_clob(3) :=q'!A7I8!';
   l_varchar2(4) :=q'!143309508472630376171792723318892454417!';
-  l_clob(5) :=q'!29Jun18 - Emailed Alan to query the project description - ""Sonosite Ultrasound Ward 23."" The delivery code on the CER is the Spinal Unit in Otara. Checking with Alan if it should be changed to the Spinal Unit before completing requisition.
+  l_clob(5) :=q'!29Jun18 - Emailed Alan to query the project description - Sonosite Ultrasound Ward 23. The delivery code on the CER is the Spinal Unit in Otara. Checking with Alan if it should be changed to the Spinal Unit before completing requisition.
 Alan has rung to say the RC Code on the capex form is Ward 23 and not the Spinal Unit. Jude is confirming with Mary Murdie if the RC Code should be 04-221-2353 (Spinal Unit) and not 04-211-2223 (Ward 23). !';
   l_varchar2(6) :=q'!28.06.2018 23:55:00.000000000 +00:00!';
   l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
@@ -76355,6 +76355,12979 @@ begin
   l_varchar2(12) :=q'!09.07.2018 20:30:30.313666000 +00:00!';
   l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
   l_varchar2(14) :=q'!09.07.2018 20:30:30.313777000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149662757031732053727004882227509883734!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8KC!';
+  l_varchar2(4) :=q'!147053510611055550070873595671355348250!';
+  l_clob(5) :=q'!10Jul18 - Emailed Bessie with CER# so she can do a journal as there is no PO being raised for the wheelchairs as they are being donated. 
+Alan Fowlie sent CER# at 12.55pm on 9/7/18. !';
+  l_varchar2(6) :=q'!09.07.2018 20:39:50.691834000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.07.2018 20:39:50.686939000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.07.2018 20:39:50.687150000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149669222774027362090809267456385534354!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8LC!';
+  l_varchar2(4) :=q'!144753189966671884523750114199660706564!';
+  l_clob(5) :=q'!10Jul18 - Ascent (supplier) is not set up in Oracle. Emailed Louis on 10/7/18 to ask him to send supplier maintenance form to supplier and log Cherwell request for them to be added as new supplier.!';
+  l_varchar2(6) :=q'!09.07.2018 22:11:11.008955000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.07.2018 22:11:11.006209000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.07.2018 22:11:11.006359000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149670802547594204523706153264806101905!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8KU!';
+  l_varchar2(4) :=q'!140071151713289854342952323899053613746!';
+  l_clob(5) :=q'!10Jul18 - Bessie advised to check with Louis if the transaction has already taken place, if so, it will only need a journal and not a PO raised. Emailed Louis on 10/7/18.!';
+  l_varchar2(6) :=q'!09.07.2018 22:30:33.497760000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.07.2018 22:30:33.493499000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.07.2018 22:30:33.493629000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149672613424742398496439784201698213582!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8LF!';
+  l_varchar2(4) :=q'!133699156480868887895021920159586327997!';
+  l_clob(5) :=q'!10Jul18 - Raised requisition for Sharp Communications for fibre ties for patient monitors - Req # 972563.!';
+  l_varchar2(6) :=q'!09.07.2018 23:04:54.605146000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.07.2018 23:04:54.602086000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.07.2018 23:04:54.602296000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149683588887222569034504886311243772509!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8LX!';
+  l_varchar2(4) :=q'!139439868419331718459722886142831132920!';
+  l_clob(5) :=q'!10Jul18 - Dana Ralph Smith is acting DHS and has signed the capex.!';
+  l_varchar2(6) :=q'!10.07.2018 01:26:35.822186000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!10.07.2018 01:26:35.818816000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!10.07.2018 01:26:35.818930000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149684070349155796030564265979624090387!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8MF!';
+  l_varchar2(4) :=q'!139439868419331718459722886142831132920!';
+  l_clob(5) :=q'!10Jul18 - Sent to Alan Fowlie at 1.33pm on 10/7/18 for CER#.!';
+  l_varchar2(6) :=q'!10.07.2018 01:33:25.833498000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!10.07.2018 01:33:25.822496000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!10.07.2018 01:33:25.822643000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149761439187519246390743526483690261338!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8QB!';
+  l_varchar2(4) :=q'!149764385503129031897341334484073328066!';
+  l_clob(5) :=q'!received MMF memo only. Have emailed Daniela and Mark to chase CER and quote.!';
+  l_varchar2(6) :=q'!10.07.2018 20:01:14.568203000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!10.07.2018 20:01:14.561486000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!10.07.2018 20:01:14.561837000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149761439187520455316563141112864967514!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8QY!';
+  l_varchar2(4) :=q'!149764385503143539007176710034169802178!';
+  l_clob(5) :=q'!MMF memo received. Emailed Lalesh/Mark/Jenny to chase CER and quote!';
+  l_varchar2(6) :=q'!10.07.2018 20:04:26.720255000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!10.07.2018 20:04:26.719179000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!10.07.2018 20:04:26.719243000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149769069860769072950123216737439333637!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8R0!';
+  l_varchar2(4) :=q'!146636694574048203321279077951289968629!';
+  l_clob(5) :=q'!11Jul18 - Sent CER to Paul for HD#. 
+Emailed Shirley on 11/7/18 about the Facilities component of the CER - does she want a CER# for this part? !';
+  l_varchar2(6) :=q'!10.07.2018 21:06:26.966824000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!10.07.2018 21:06:26.962604000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!10.07.2018 21:06:26.962740000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149769404350773234243778927016515795112!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8RH!';
+  l_varchar2(4) :=q'!143735571422709917654734971653568875573!';
+  l_clob(5) :=q'!11Jul18 - Sent CER to Alan for project set up at 9.04am on 11/7/18.!';
+  l_varchar2(6) :=q'!10.07.2018 21:08:56.222810000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!10.07.2018 21:08:56.219113000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!10.07.2018 21:08:56.219290000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149788064746544754719124915242486475618!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!A8T7!';
+  l_varchar2(4) :=q'!146636694574048203321279077951289968629!';
+  l_clob(5) :=q'!11Jul18 - Paul has emailed with a query as there is a variance between CER and memo amount. Jude is away. Bessie is amending CER and asking Nettie for the additional funds of $539.94.!';
+  l_varchar2(6) :=q'!11.07.2018 01:28:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 01:28:35.407039000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 22:08:12.703434000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149790779570797839595611932943501273050!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8UC!';
+  l_varchar2(4) :=q'!143813490590685842792849816197492692538!';
+  l_clob(5) :=q'!11Jul18 - Sent to Alan Fowlie for project set up at 1.51pm on 11/7/18.!';
+  l_varchar2(6) :=q'!11.07.2018 02:06:52.380203000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 02:06:52.375465000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 02:06:52.375654000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149795029120065725553128635135437881986!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8U4!';
+  l_varchar2(4) :=q'!148302935422695818832472908694272372614!';
+  l_clob(5) :=q'!11Jul18 - Sent to Alan Fowlie for project set up at 4.25pm on 11/7/18.!';
+  l_varchar2(6) :=q'!11.07.2018 04:26:37.139505000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 04:26:37.138675000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 04:26:37.139158000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149796840689177994731614916906859670578!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8US!';
+  l_varchar2(4) :=q'!140071151713289854342952323899053613746!';
+  l_clob(5) :=q'!11Jul18 - Louis has advised that Timneen has the invoice. Shirley said to email Timneen and ask if she has the invoice and check if it's been paid. If it's paid, we need a R/C code and Bessie will do a journal. If not paid yet, I need to raise a PO.!';
+  l_varchar2(6) :=q'!11.07.2018 03:27:11.030001000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 03:27:11.026434000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 03:27:11.026555000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149797313093853646982047159150915142245!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8UV!';
+  l_varchar2(4) :=q'!143827514181196719951124192614796807405!';
+  l_clob(5) :=q'!11Jul18 - Sent CER to Alan Fowlie for project set up at 3.35pm on 11/7/18.!';
+  l_varchar2(6) :=q'!11.07.2018 03:34:58.133725000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 03:34:58.133217000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 03:34:58.133372000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149799263388453980196767851880922251415!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8U0!';
+  l_varchar2(4) :=q'!143826774874760838817833777602432348515!';
+  l_clob(5) :=q'!11Jul18 - Sent to Alan Fowlie for project set up at 4.01pm on 11/7/18.!';
+  l_varchar2(6) :=q'!11.07.2018 04:01:38.519204000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 04:01:38.518787000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 04:01:38.518957000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149877785754697741459976146551554463016!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8VE!';
+  l_varchar2(4) :=q'!146636694574048203321279077951289968629!';
+  l_clob(5) :=q'!12Jul18 - Shirley has advised that it would be easier for the capex to have a Counties CER# and not HD# so that John can charge back his facilities work. She said to check with Paul Eldridge that he's okay with this. Paul has agreed to it.!';
+  l_varchar2(6) :=q'!11.07.2018 22:09:43.337071000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 22:09:43.333813000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 22:09:43.333962000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149880104392413092385419909480393238189!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8VY!';
+  l_varchar2(4) :=q'!148214848700601102953370396455506554634!';
+  l_clob(5) :=q'!12Jul18 - Sent to Alan Fowlie for project set up at 10.30am on 12/7/18.!';
+  l_varchar2(6) :=q'!11.07.2018 22:35:05.150892000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 22:35:05.147199000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 22:35:05.147344000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149881098791558682267899544721003671626!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8VH!';
+  l_varchar2(4) :=q'!130681999342594401675609972749980437963!';
+  l_clob(5) :=q'!12Jul18 - Sent CER to Alan Fowlie for project set up at 10.50am on 12/7/18.!';
+  l_varchar2(6) :=q'!11.07.2018 22:49:53.470826000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!11.07.2018 22:49:53.467540000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!11.07.2018 22:49:53.467720000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149887984933477037645964064847160998786!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8WG!';
+  l_varchar2(4) :=q'!140071151713289854342952323899053613746!';
+  l_clob(5) :=q'!12Jul18 - Timneen emailed on 12/7/18 to advise that we won't be invoiced for the dialysis chairs until just before the expiry of the lease which is 4/11/18. Once the invoice is received, I will raise a  retrospective (have invoice) requisition.!';
+  l_varchar2(6) :=q'!12.07.2018 00:26:25.020723000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!12.07.2018 00:26:25.017632000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!12.07.2018 00:26:25.017765000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149900307967204360074243577252533777287!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!A8WL!';
+  l_varchar2(4) :=q'!130656499334688085017636833991626326869!';
+  l_clob(5) :=q'!12Jul18 - The autostainer is being delivered on 12/7/18. Rochelle Knight, the Service Delivery Manager for Inwards Goods has agreed that the machine can be stored in Inwards Goods until Monday 16/7/18 when it is going to be installed in the Lab. 
+Natasha Caldwell (Charge Scientist of Histology) is the person who has been liaising with the suppler, Inwards Goods and myself. !';
+  l_varchar2(6) :=q'!12.07.2018 03:13:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!12.07.2018 03:13:37.152417000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!12.07.2018 03:18:53.213816000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149900378929817876704734598381485993856!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8WZ!';
+  l_varchar2(4) :=q'!130652744389671159117635200438860822534!';
+  l_clob(5) :=q'!12Jul18 - The coverslipper is being delivered on 12/7/18. Rochelle Knight, the Service Delivery Manager for Inwards Goods has agreed that the machine can be stored in Inwards Goods until Monday 16/7/18 when it is going to be installed in the Lab. 
+Natasha Caldwell (Charge Scientist of Histology) is the person who has been liaising with the suppler, Inwards Goods and myself. !';
+  l_varchar2(6) :=q'!12.07.2018 03:14:35.882746000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!12.07.2018 03:14:35.851803000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!12.07.2018 03:14:35.851952000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149976071774352107916693465719284456162!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8X3!';
+  l_varchar2(4) :=q'!126173524001527507270514870872074626292!';
+  l_clob(5) :=q'!13Jul18 - PO 1974625 - ProMed for cables- the supplier has advised that the courier is being sent today 13/7/18. ETA is either this afternoon or Monday 16/7/18. Clinical Engineering has been advised of ETA.!';
+  l_varchar2(6) :=q'!12.07.2018 20:39:49.295704000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!12.07.2018 20:39:49.277245000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!12.07.2018 20:39:49.277393000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149976083549517999249278573826510972225!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8X6!';
+  l_varchar2(4) :=q'!145605014941331393154401077379486974553!';
+  l_clob(5) :=q'!13Jul18 - Shontelle from Active Healthcare has emailed to say they have equipment in stock. She was checking about training. Iain has emailed her to say that he will ask the Charge Nurse of Ward 4 but he feels it will be unlikely they need training because they have a few of these monitors already.!';
+  l_varchar2(6) :=q'!12.07.2018 20:53:30.686166000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!12.07.2018 20:53:30.685562000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!12.07.2018 20:53:30.685713000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149983955123598583507581699790004290381!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8ZH!';
+  l_varchar2(4) :=q'!144033340038275672615088032958640854150!';
+  l_clob(5) :=q'!13Jul18 - Chris Money from Zeiss has advised that he'll let their finance dept know that they should invoice for the amount on their quote (which was less 10K trade-in), not the amount on the PO. Bessie will do a journal at our end for the 10K trade-in.!';
+  l_varchar2(6) :=q'!12.07.2018 22:26:48.465535000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!12.07.2018 22:26:48.458652000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!12.07.2018 22:26:48.458764000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149991160714328228212398906611403096606!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A8ZO!';
+  l_varchar2(4) :=q'!130683776021588240598181955296400535987!';
+  l_clob(5) :=q'!13Jul18 - We are leasing the machine through Maia Financial. Contact people at Maia are Colin Phillips (Director, Specialised Asset Solutions) or Derek Ward (Credit Manager) - 524 3462.!';
+  l_varchar2(6) :=q'!13.07.2018 00:10:20.991583000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.07.2018 00:10:20.981133000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.07.2018 00:10:20.981303000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!149992009972669083188393083749303901350!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A80N!';
+  l_varchar2(4) :=q'!141639511648171541683360364380772144422!';
+  l_clob(5) :=q'!13Jul18 - There are x 2 PO's for this CER as x 2 supplier - PO 1967885 and PO 1968175.!';
+  l_varchar2(6) :=q'!13.07.2018 00:21:35.159553000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.07.2018 00:21:35.156339000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.07.2018 00:21:35.156476000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150003297979755580486526515281442648549!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A81F!';
+  l_varchar2(4) :=q'!127941466521463550294325322349189843998!';
+  l_clob(5) :=q'!Cherwell ref: 1167537!';
+  l_varchar2(6) :=q'!13.07.2018 02:53:28.512088000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.07.2018 02:53:28.494438000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.07.2018 02:53:28.494596000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150290827284305489124538301226563730996!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A823!';
+  l_varchar2(4) :=q'!146957245326111183442802941785273051850!';
+  l_clob(5) :=q'!Mary Murdie advised there has been an increase in freight costs due to fluctuating exchange rate. New price locked in for 60 days from 13 July. I couldn't reconcile the new quoted costs with the CER products so have asked Mary to review.!';
+  l_varchar2(6) :=q'!15.07.2018 20:57:27.188005000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!15.07.2018 20:57:27.160500000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!15.07.2018 20:57:27.160611000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150292773024496415503267121112686535500!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A83Q!';
+  l_varchar2(4) :=q'!146957245326111183442802941785273051850!';
+  l_clob(5) :=q'!have asked Mary for a new quote as previous one has expired. Don't want to ask A&C for freight increase if there might be other increases pending.!';
+  l_varchar2(6) :=q'!15.07.2018 21:25:35.219865000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!15.07.2018 21:25:35.217646000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!15.07.2018 21:25:35.217787000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150412008210062363648884771061102293394!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A88Q!';
+  l_varchar2(4) :=q'!126186005838120739305646257205351809230!';
+  l_clob(5) :=q'!CER sent for signatures despite FF&E not finalised, just to get project open. Endorsements will still be required for the FF&E.!';
+  l_varchar2(6) :=q'!17.07.2018 00:48:05.675960000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!17.07.2018 00:48:05.673042000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!17.07.2018 00:48:05.673207000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150412916738382986405829327621888723295!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A88X!';
+  l_varchar2(4) :=q'!130656110253720314461035366969355547471!';
+  l_clob(5) :=q'!email to Anne: I understand you are waiting to use the previously purchased image intensifier before committing to purchasing the one approved under Y17180064 - Image Intensifier. Can you tell me if we should open the project for the approved amount so that at least the money is set aside for you until a decision is made? You may lose the funding otherwise.!';
+  l_varchar2(6) :=q'!17.07.2018 01:00:37.191464000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!17.07.2018 01:00:37.190445000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!17.07.2018 01:00:37.190683000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150500521182079181984145085505578262375!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9AZ!';
+  l_varchar2(4) :=q'!143734705476009083136357774825651721124!';
+  l_clob(5) :=q'!requested price increase of $1022 from Nettie!';
+  l_varchar2(6) :=q'!17.07.2018 21:08:21.890562000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!17.07.2018 21:08:21.887529000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!17.07.2018 21:08:21.887667000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150500967875197016568699536185825736822!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9B2!';
+  l_varchar2(4) :=q'!148327938572040928574725662912367306304!';
+  l_clob(5) :=q'!requested quote from Daniela on 2 July. Follow up sent today.!';
+  l_varchar2(6) :=q'!17.07.2018 21:26:47.063208000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!17.07.2018 21:26:47.059765000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!17.07.2018 21:26:47.059970000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150519214371502653747536060913776639635!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9C7!';
+  l_varchar2(4) :=q'!133155540604251479309434434591231075095!';
+  l_clob(5) :=q'!Gina wasn't aware of this memo when she took over KFFT. no CER submitted yet!';
+  l_varchar2(6) :=q'!18.07.2018 01:30:07.847789000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 01:30:07.844799000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 01:30:07.844958000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150519214371509907302453748688824876691!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9C9!';
+  l_varchar2(4) :=q'!130656110253720314461035366969355547471!';
+  l_clob(5) :=q'!reply from Anne: We have applied to hA for dispensation on the RFP process as we purchased an II that was delivered in Feb 2018.  We are meeting this afternoon with hA and the vendor to come to some agreement. 
+Please open the project for us for the approved amount.  If we can’t come to some arrangement via dispensation we will be going out for RFP ASAP.!';
+  l_varchar2(6) :=q'!18.07.2018 01:32:00.776788000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 01:32:00.775358000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 01:32:00.775494000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150521261639438446706212746583790624816!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9C1!';
+  l_varchar2(4) :=q'!143295957010050368626087382064093256983!';
+  l_clob(5) :=q'!quote received. sent for procurement endorsement Cherwell ref: 1168062!';
+  l_varchar2(6) :=q'!18.07.2018 01:54:17.994059000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 01:54:17.991519000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 01:54:17.991673000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150521261639442073483671590471314743344!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9DO!';
+  l_varchar2(4) :=q'!143295957010050368626087382064093256983!';
+  l_clob(5) :=q'!no CE endorsement required.!';
+  l_varchar2(6) :=q'!18.07.2018 01:55:05.853259000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 01:55:05.852942000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 01:55:05.852991000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150521261639656053353743379835237736496!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9DT!';
+  l_varchar2(4) :=q'!143100884773698319569041838381778887892!';
+  l_clob(5) :=q'!I haven't updated the status to awaiting project number as not sure if this has been requested...!';
+  l_varchar2(6) :=q'!18.07.2018 02:03:41.227047000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:03:41.226661000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:03:41.226782000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150522304799253279526234546238005186275!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9DY!';
+  l_varchar2(4) :=q'!143101210558075236746293606841792116184!';
+  l_clob(5) :=q'!printed off new top copy with delivery location code!';
+  l_varchar2(6) :=q'!18.07.2018 02:11:56.895492000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:11:56.895110000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:11:56.895233000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150522304799258115229513004754704010979!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9D0!';
+  l_varchar2(4) :=q'!143186732239713121939868952857504663100!';
+  l_clob(5) :=q'!printed off new top sheet with delivery location code!';
+  l_varchar2(6) :=q'!18.07.2018 02:14:03.068565000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:14:03.068175000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:14:03.068335000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150522710861335008869107362850969245276!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9DG!';
+  l_varchar2(4) :=q'!143187702366098303521425908749768111107!';
+  l_clob(5) :=q'!printed off new top sheet with delivery location code!';
+  l_varchar2(6) :=q'!18.07.2018 02:14:34.574455000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:14:34.574042000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:14:34.574138000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150522710861337426720746592109318657628!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9DL!';
+  l_varchar2(4) :=q'!143734705476009083136357774825651721124!';
+  l_clob(5) :=q'!Nettie approved price increase. Amended memo received.!';
+  l_varchar2(6) :=q'!18.07.2018 02:21:33.904630000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:21:33.904256000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:21:33.904390000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150523823873206566167372262469849118949!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9EC!';
+  l_varchar2(4) :=q'!148219013999294355644083008296178187739!';
+  l_clob(5) :=q'!sent follow up email to John Black for endorsement!';
+  l_varchar2(6) :=q'!18.07.2018 02:43:10.241965000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:43:10.241598000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:43:10.241725000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150523823873215028648109564874072062181!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FW!';
+  l_varchar2(4) :=q'!148197801573262838882737096238151022968!';
+  l_clob(5) :=q'!Cherwell ref: 1168088!';
+  l_varchar2(6) :=q'!18.07.2018 03:04:41.790443000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 03:04:41.790087000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 03:04:41.790227000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150524935364093165983413026603651594806!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9EM!';
+  l_varchar2(4) :=q'!130682570297255468872753013556939384362!';
+  l_clob(5) :=q'!CE to provide alternate dental chair. Terri to confirm what they want.!';
+  l_varchar2(6) :=q'!18.07.2018 02:50:40.571634000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:50:40.571301000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:50:40.571427000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150524935364094374909232641232826300982!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9EP!';
+  l_varchar2(4) :=q'!130656499334686876091817219362451620693!';
+  l_clob(5) :=q'!CE awaiting reg docs from supplier.!';
+  l_varchar2(6) :=q'!18.07.2018 02:52:20.259559000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:52:20.259257000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:52:20.259359000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150524935364098001686691485120350419510!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FI!';
+  l_varchar2(4) :=q'!147063350328263588770196656774374518144!';
+  l_clob(5) :=q'!Asset team to follow up quote with Service!';
+  l_varchar2(6) :=q'!18.07.2018 02:56:35.390074000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:56:35.389671000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:56:35.389794000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150524935364100419538330714378699831862!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FO!';
+  l_varchar2(4) :=q'!139652576722961062485274010287451455387!';
+  l_clob(5) :=q'!CE following up with supplier final offer including the whole unit.!';
+  l_varchar2(6) :=q'!18.07.2018 03:00:08.282268000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 03:00:08.281978000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 03:00:08.282050000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525084581764026537784949178974908926!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9EZ!';
+  l_varchar2(4) :=q'!150497694951065631522164096342527057178!';
+  l_clob(5) :=q'!CE to follow up if it's a true contingency.!';
+  l_varchar2(6) :=q'!18.07.2018 03:10:33.110099000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 03:10:33.109729000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 03:10:33.109869000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525084581765235463604563808149615102!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9E0!';
+  l_varchar2(4) :=q'!146636694574048203321279077951289968629!';
+  l_clob(5) :=q'!Bessie was going to ask Nettie for a price increase due to the amount being incorrect at the top of the CER form (formula was removed) and therefore a&c approved amount was too low.!';
+  l_varchar2(6) :=q'!18.07.2018 03:11:22.340657000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 03:11:22.340375000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 03:11:22.340460000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525126516190900643558108840699113759!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9EF!';
+  l_varchar2(4) :=q'!148219013999294355644083008296178187739!';
+  l_clob(5) :=q'!verbal endorsement received form Andrew providing measures are taken to check for asbestos!';
+  l_varchar2(6) :=q'!18.07.2018 02:47:34.943358000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:47:34.942907000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:47:34.943141000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525295526402415830222867560087214336!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FB!';
+  l_varchar2(4) :=q'!145379707991223049913865950127876487747!';
+  l_clob(5) :=q'!thought this had been sent for sigs but no record of this. Have printed again and is now ready to send out.!';
+  l_varchar2(6) :=q'!18.07.2018 02:52:44.589193000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:52:44.587036000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:52:44.587153000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525295526407251533501326076786039040!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FE!';
+  l_varchar2(4) :=q'!141008793038228941477739442147020249651!';
+  l_clob(5) :=q'!AT to follow up dispensation and send to Timneen for lease assessment.!';
+  l_varchar2(6) :=q'!18.07.2018 02:54:31.582283000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:54:31.582053000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:54:31.582096000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525295526408460459320940705960745216!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FH!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!ready for signatures but quote has expired!';
+  l_varchar2(6) :=q'!18.07.2018 02:55:53.897060000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:55:53.896659000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:55:53.896802000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525295526414505088419013851834276096!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FL!';
+  l_varchar2(4) :=q'!147075790049267749846803192251868266848!';
+  l_clob(5) :=q'!CE to provide quote.!';
+  l_varchar2(6) :=q'!18.07.2018 02:57:40.676096000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 02:57:40.675752000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 02:57:40.675864000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525969886181872622656739791153694163!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FY!';
+  l_varchar2(4) :=q'!146957245326111183442802941785273051850!';
+  l_clob(5) :=q'!new quote received. Freight costs have increased significantly and may increase again by the time endorsements are complete. Have emailed Nettie to advise.!';
+  l_varchar2(6) :=q'!18.07.2018 03:06:04.148056000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 03:06:04.147682000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 03:06:04.147812000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525969886184290474295969049503106515!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9FZ!';
+  l_varchar2(4) :=q'!149764385503143539007176710034169802178!';
+  l_clob(5) :=q'!CE following up reg docs and follow up with service item requested.
+Lalesh has requested revised quote in NZD 16/7/18!';
+  l_varchar2(6) :=q'!18.07.2018 03:06:28.999186000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 03:06:28.998850000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 03:06:28.998912000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150525969886191544029213656824551343571!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9F5!';
+  l_varchar2(4) :=q'!149764385503129031897341334484073328066!';
+  l_clob(5) :=q'!CE following up reg docs, CSSD need instructions for use and following up with Daniela. CER needs instrument trays. CER in process of updating by Daniela.!';
+  l_varchar2(6) :=q'!18.07.2018 03:09:27.548609000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 03:09:27.548328000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 03:09:27.548409000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150526827917494498439821400983754011567!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9E1!';
+  l_varchar2(4) :=q'!146636694574048203321279077951289968629!';
+  l_clob(5) :=q'!printed out amended approval memo and top sheet for scanning.!';
+  l_varchar2(6) :=q'!18.07.2018 03:13:09.319525000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 03:13:09.319132000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 03:13:09.319249000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150614178060943265666644885746616163107!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9H7!';
+  l_varchar2(4) :=q'!143295957010050368626087382064093256983!';
+  l_clob(5) :=q'!ready for signs but need an updated quote. Have asked Terri for one and for it to be emailed to Joanne.!';
+  l_varchar2(6) :=q'!18.07.2018 23:15:16.658039000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!18.07.2018 23:15:16.654211000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!18.07.2018 23:15:16.654390000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150710823315201564884045658552684808106!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9LJ!';
+  l_varchar2(4) :=q'!147073251175167349478515727745388701279!';
+  l_clob(5) :=q'!still awaiting quote from Bill. Can't get procurement endorsement without it.!';
+  l_varchar2(6) :=q'!19.07.2018 21:27:39.739920000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!19.07.2018 21:27:39.734622000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!19.07.2018 21:27:39.734762000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150710878781479843443771655733205845692!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9LL!';
+  l_varchar2(4) :=q'!147073251175187901217449176441358706271!';
+  l_clob(5) :=q'!Bill to send through quote for required make/model. Can't get procurement endorsement without it.!';
+  l_varchar2(6) :=q'!19.07.2018 21:28:25.615821000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!19.07.2018 21:28:25.615387000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!19.07.2018 21:28:25.615509000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150710878781483470221230499620729964220!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9LN!';
+  l_varchar2(4) :=q'!148513745100310997108269746790503060671!';
+  l_clob(5) :=q'!Cherwell ref: 1168305!';
+  l_varchar2(6) :=q'!19.07.2018 21:29:04.551140000 +00:00!';
+  l_clob(7) :=q'!jude.harris@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!19.07.2018 21:29:04.550868000 +00:00!';
+  l_clob(13) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!19.07.2018 21:29:04.550946000 +00:00!';
+  l_clob(15) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!150722773818541797574189811639140512338!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9MM!';
+  l_varchar2(4) :=q'!143734705476009083136357774825651721124!';
+  l_clob(5) :=q'!Quote expired 26th June. Have sent an email to supplier to get an updated quote. 20/07/18!';
+  l_varchar2(6) :=q'!20.07.2018 00:15:04.081777000 +00:00!';
+  l_clob(7) :=q'!bessie.pone@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!20.07.2018 00:15:04.079048000 +00:00!';
+  l_clob(13) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!20.07.2018 00:15:04.079195000 +00:00!';
+  l_clob(15) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151015210632802044684273666469271437804!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9PV!';
+  l_varchar2(4) :=q'!130574882902281015499076140511689204547!';
+  l_clob(5) :=q'!23Jul18 - Kellie Herbert from Life Fitness has emailed with proposed delivery date of 26/7/18. Bill Armstrong has advised treadmill needs to be delivered direct to the Spinal Unit. Emailed Mohammad Alshadiefat to check if 26/7/18 is suitable for the service.!';
+  l_varchar2(6) :=q'!22.07.2018 19:24:03.033787000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!22.07.2018 19:24:03.022494000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!22.07.2018 19:24:03.022723000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151015688414931669558939180051897000366!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9PY!';
+  l_varchar2(4) :=q'!140072985233437103520238302358475177891!';
+  l_clob(5) :=q'!23Jul18 - Email from supplier on 18/7/18 to advise that the x 3 ShockLink Systems will arrive in NZ approx. 30/7/18.!';
+  l_varchar2(6) :=q'!22.07.2018 19:30:38.235182000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!22.07.2018 19:30:38.234681000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!22.07.2018 19:30:38.234839000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151024709285649998637574934008399970587!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9RO!';
+  l_varchar2(4) :=q'!144661264568225047330496309569107265464!';
+  l_clob(5) :=q'!23Jul18 - Sent to Paul Eldridge at 9.39am on 23/7/18 for project ID number.!';
+  l_varchar2(6) :=q'!22.07.2018 21:40:51.997925000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!22.07.2018 21:40:51.995440000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!22.07.2018 21:40:51.995548000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151025422099933935476528732408522752467!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9PG!';
+  l_varchar2(4) :=q'!144661264568225047330496309569107265464!';
+  l_clob(5) :=q'!23Jul18 - Emailed Farnaaz to confirm that I've received the capex via internal mail and it has been sent to Paul Eldridge for project ID and purchase.!';
+  l_varchar2(6) :=q'!22.07.2018 21:45:21.213468000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!22.07.2018 21:45:21.204909000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!22.07.2018 21:45:21.205046000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151046254156017668672003142139882790928!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9SP!';
+  l_varchar2(4) :=q'!143186732239713121939868952857504663100!';
+  l_clob(5) :=q'!23Jul18 - Sent to Alan Fowlie at 2.29pm on 23/7/18 for project set up.!';
+  l_varchar2(6) :=q'!23.07.2018 02:32:01.626303000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!23.07.2018 02:32:01.623180000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!23.07.2018 02:32:01.623347000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151046477713632661036901914059918320887!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9SS!';
+  l_varchar2(4) :=q'!143101210558075236746293606841792116184!';
+  l_clob(5) :=q'!23Jul18 - Sent to Alan Fowlie at 2.36pm on 23/7/18 for project set up.!';
+  l_varchar2(6) :=q'!23.07.2018 02:37:34.810817000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!23.07.2018 02:37:34.810285000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!23.07.2018 02:37:34.810449000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151047038738289903468658748142302049358!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9SV!';
+  l_varchar2(4) :=q'!143187702366098303521425908749768111107!';
+  l_clob(5) :=q'!23Jul18 - Sent to Alan Fowlie at 3.42pm on 23/7/18 for project set up.!';
+  l_varchar2(6) :=q'!23.07.2018 02:42:50.614671000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!23.07.2018 02:42:50.614232000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!23.07.2018 02:42:50.614374000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151047466196582524180272282328497960532!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9SY!';
+  l_varchar2(4) :=q'!143100884773698319569041838381778887892!';
+  l_clob(5) :=q'!23Jul18 - Sent to Alan Fowlie at 3.47pm on 23/7/18 for project set up. Delay was request for delivery location code from Gina.!';
+  l_varchar2(6) :=q'!23.07.2018 02:48:44.200167000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!23.07.2018 02:48:44.199669000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!23.07.2018 02:48:44.199881000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151130552747755531451280698866968333849!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9UE!';
+  l_varchar2(4) :=q'!144661264568225047330496309569107265464!';
+  l_clob(5) :=q'!24Jul18 - Shereen has sent project ID number - HD19026 on 24/7/18.!';
+  l_varchar2(6) :=q'!23.07.2018 21:55:35.323784000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!23.07.2018 21:55:35.321313000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!23.07.2018 21:55:35.321427000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151132048917583484980702795226548031784!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9VG!';
+  l_varchar2(4) :=q'!137456667466665661280902896916135425153!';
+  l_clob(5) :=q'!24Jul18 - Sent to Alan Fowlie to increase the project amount on 24/7/18.!';
+  l_varchar2(6) :=q'!23.07.2018 22:15:52.302068000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!23.07.2018 22:15:52.298541000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!23.07.2018 22:15:52.298675000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151135978123414456820101520254806316491!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9WJ!';
+  l_varchar2(4) :=q'!143734705476009083136357774825651721124!';
+  l_clob(5) :=q'!24Jul18 - Sent an email request to David Tsao at ECS for an updated quote as no response to Bessie's request on 20/7/18. Louis is following up on this capex.!';
+  l_varchar2(6) :=q'!23.07.2018 23:10:21.190881000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!23.07.2018 23:10:21.177993000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!23.07.2018 23:10:21.178135000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151229588510194369360388517410892450631!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A9ZE!';
+  l_varchar2(4) :=q'!146636694574048203321279077951289968629!';
+  l_clob(5) :=q'!25Jul18 - Sent to Paul Eldridge and John Black (copied in Sugumar) as IT and facilities. Copied in Grant Ramsay as he has been following up on this.!';
+  l_varchar2(6) :=q'!24.07.2018 20:39:32.248957000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!24.07.2018 20:39:32.246341000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!24.07.2018 20:39:32.246448000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151234354347641081397401356869267367937!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A91K!';
+  l_varchar2(4) :=q'!140072985233437103520238302358475177891!';
+  l_clob(5) :=q'!25Jul18 - Email from Laerdal with shipping confirmation sent on 24/7/18. Advised Tracey Cooper.!';
+  l_varchar2(6) :=q'!24.07.2018 21:45:14.457300000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!24.07.2018 21:45:14.454723000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!24.07.2018 21:45:14.454865000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151241883433503826095379707937132659939!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A918!';
+  l_varchar2(4) :=q'!127941466521463550294325322349189843998!';
+  l_clob(5) :=q'!25Jul18 - Sent to Alan Fowlie on 25/7/18 for project set up.!';
+  l_varchar2(6) :=q'!24.07.2018 23:36:31.662903000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!24.07.2018 23:36:31.660172000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!24.07.2018 23:36:31.660303000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151243428570920633399961449018445064445!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A92A!';
+  l_varchar2(4) :=q'!125142665509034927453896853261195725950!';
+  l_clob(5) :=q'!25Jul18 - Sent to Alan Fowlie on 25/7/18 for project set up.!';
+  l_varchar2(6) :=q'!24.07.2018 23:50:20.476964000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!24.07.2018 23:50:20.476463000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!24.07.2018 23:50:20.476580000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151248178340233529709062438634857962374!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A92F!';
+  l_varchar2(4) :=q'!125143392254426090627004938662573792236!';
+  l_clob(5) :=q'!25Jul18 - Emailed Alan Fowlie on 25/7/18 to request CM16CFB1336 be increased by $48K for the Project Management Costs for the Maternity Alerting System.!';
+  l_varchar2(6) :=q'!25.07.2018 00:59:49.662092000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 00:59:49.661784000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 00:59:49.661886000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151248321056602875379926746417913985816!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A929!';
+  l_varchar2(4) :=q'!143100884773698319569041838381778887892!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has opened project - CER# CM18CMN1172.
+Emailed Gina to advise her of CER# as this one is urgent. !';
+  l_varchar2(6) :=q'!25.07.2018 01:21:49.937359000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:21:49.934280000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:21:49.934393000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151250598258096222220941792563438588848!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A93D!';
+  l_varchar2(4) :=q'!143186732239713121939868952857504663100!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has opened project - CER# CM18CMN1169 - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 01:33:49.452846000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:33:49.452380000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:33:49.452496000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151250598258098640072581021821788001200!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A93E!';
+  l_varchar2(4) :=q'!143101210558075236746293606841792116184!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has sent CER # CM18CMN1170 - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 01:35:59.563240000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:35:59.562946000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:35:59.563020000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151251017487939082360547213654918735788!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A93Z!';
+  l_varchar2(4) :=q'!143735571422709917654734971653568875573!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has sent CER# CM18CMC1164 - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 01:40:37.605037000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:40:37.604697000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:40:37.604808000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151251017487943918063825672171617560492!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A932!';
+  l_varchar2(4) :=q'!143813490590685842792849816197492692538!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has sent CER# CM18CMC1165 - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 01:41:58.896071000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:41:58.895674000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:41:58.895819000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151251272248821698497255965990295732881!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A93V!';
+  l_varchar2(4) :=q'!143187702366098303521425908749768111107!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has sent CER# CM18CMN1171 - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 01:38:28.615106000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:38:28.614684000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:38:28.614791000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151251628870630778509438811806244821986!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A935!';
+  l_varchar2(4) :=q'!143827514181196719951124192614796807405!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has sent CER# CM18CMC1166 - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 01:43:23.606019000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:43:23.605425000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:43:23.605616000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151251628870636823138536884952118352866!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A939!';
+  l_varchar2(4) :=q'!143826774874760838817833777602432348515!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has sent CER# CM18CMC1167- 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 01:45:31.062576000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:45:31.062177000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:45:31.062352000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151251628870642867767634958097991883746!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A94C!';
+  l_varchar2(4) :=q'!148214848700601102953370396455506554634!';
+  l_clob(5) :=q'!25Jul18 - Alan Fowlie has sent CER# CM18CFC1168 - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 01:46:38.239394000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 01:46:38.238993000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 01:46:38.239142000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151255040851035206502398877253682097021!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A94F!';
+  l_varchar2(4) :=q'!143735571422709917654734971653568875573!';
+  l_clob(5) :=q'!25Jul18 - Emailed Dhairesh Patel to advise who in hA will receive the PO for the data outlet installation - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 02:30:25.930784000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 02:30:25.929472000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 02:30:25.929619000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151255228297374297597644566535435205282!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A93G!';
+  l_varchar2(4) :=q'!146636694574048203321279077951289968629!';
+  l_clob(5) :=q'!25Jul18 - Shereen has sent the project ID number for the hA component of the capex - HD19027 - 25/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 02:33:57.801515000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 02:33:57.799179000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 02:33:57.799300000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151323838226591788166504973188576580228!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A94X!';
+  l_varchar2(4) :=q'!143813490590685842792849816197492692538!';
+  l_clob(5) :=q'!26Jul18 - Emailed John Black with signed CER as Engineering will be required to do the power point installation. Advised John that the requisition for the fridge has been raised - 26/7/18.
+Waiting to hear back from Dhairesh Patel re: data outlet installation to be done by Health Alliance, need the contact person at hA. !';
+  l_varchar2(6) :=q'!25.07.2018 18:18:53.787644000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 18:18:53.784786000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 18:18:53.784927000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151329222047942444020810301576517021538!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A95G!';
+  l_varchar2(4) :=q'!143827514181196719951124192614796807405!';
+  l_clob(5) :=q'!26Jul18 - Sent signed CER to John Black for power point installation to be done by Engineering.!';
+  l_varchar2(6) :=q'!25.07.2018 19:34:07.681368000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 19:34:07.679005000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 19:34:07.679120000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151335374576532793773484501122467765936!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A96J!';
+  l_varchar2(4) :=q'!143826774874760838817833777602432348515!';
+  l_clob(5) :=q'!26Jul18 - Emailed CER to John Black for power point installation to be done by Engineering - 26/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 20:57:56.449564000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 20:57:56.429578000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 20:57:56.429924000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151337851387373771130754089552119087047!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A964!';
+  l_varchar2(4) :=q'!148214848700601102953370396455506554634!';
+  l_clob(5) :=q'!26Jul18 - Requested updated quote from Des Warman at Global Purchasing Ltd - 26/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 21:33:03.939979000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 21:33:03.937477000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!25.07.2018 21:33:03.937578000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151346522960659182878407468757214340449!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!A97Q!';
+  l_varchar2(4) :=q'!148302935422695818832472908694272372614!';
+  l_clob(5) :=q'!26Jul18 - Alan Fowlie has confirmed that the transfer of $50,100 from CER# CM17CMC1204 to CER# CM17CMC1158 has been actioned - 26/7/18.!';
+  l_varchar2(6) :=q'!25.07.2018 23:31:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!25.07.2018 23:31:38.156813000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!26.07.2018 00:01:16.443254000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151349022718501367515244439100759800391!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A97R!';
+  l_varchar2(4) :=q'!137456667466665661280902896916135425153!';
+  l_clob(5) :=q'!26Jul18 - Alan Fowlie has increased the amount against CER# CM18CSC1054 - 26/7/18.!';
+  l_varchar2(6) :=q'!26.07.2018 00:11:54.223968000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!26.07.2018 00:11:54.223476000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!26.07.2018 00:11:54.223637000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151352013707923651426121359730664050356!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!A97U!';
+  l_varchar2(4) :=q'!137456667466665661280902896916135425153!';
+  l_clob(5) :=q'!26Jul18 - Req # 975839 raised for the Phaco machine with handpieces - Pharmaco(Alcon) - 26/7/18. PO 1979169 raised - 30/7/18.!';
+  l_varchar2(6) :=q'!26.07.2018 00:47:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!26.07.2018 00:47:19.996265000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!30.07.2018 01:01:54.372801000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151353013832682492137053844917197752608!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!A99C!';
+  l_varchar2(4) :=q'!137456667466665661280902896916135425153!';
+  l_clob(5) :=q'!26Jul18 - Req # 975839 raised for OrthoMedics - 26/7/18. PO 1978785 raised - 30/7/18.!';
+  l_varchar2(6) :=q'!26.07.2018 01:06:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!26.07.2018 01:06:31.170666000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!30.07.2018 01:02:19.891626000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151354078063484481169803012862122968885!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!A99E!';
+  l_varchar2(4) :=q'!137456667466665661280902896916135425153!';
+  l_clob(5) :=q'!26Jul18 - Req # 975857 raised for instruments from OIC - 26/7/18. PO 1978833 raised - 30/7/18.!';
+  l_varchar2(6) :=q'!26.07.2018 01:19:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!26.07.2018 01:19:26.157017000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!30.07.2018 01:02:47.194356000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151358603255562328214718792519096532564!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!A99H!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!26Jul18 - 2nd request for updated quote - 26/7/18.!';
+  l_varchar2(6) :=q'!26.07.2018 02:22:59.915919000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!26.07.2018 02:22:59.915476000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!26.07.2018 02:22:59.915636000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151448765109664522782223358899914597885!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BABK!';
+  l_varchar2(4) :=q'!143942663956690270717985150343769227553!';
+  l_clob(5) :=q'!27Jul18 - Sent CER to Alan Fowlie on 27/7/18 for project set up.!';
+  l_varchar2(6) :=q'!26.07.2018 23:41:29.582730000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!26.07.2018 23:41:29.580705000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!26.07.2018 23:41:29.580833000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151454264230012616267400270740177317830!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAB9!';
+  l_varchar2(4) :=q'!139439868419331718459722886142831132920!';
+  l_clob(5) :=q'!27Jul18 - Supplier has advised the ETA for the skull clamp is Monday 30/7/18. Emailed Alisa Ili, Lalesh Deo and Mark Casey to let them know.!';
+  l_varchar2(6) :=q'!27.07.2018 00:20:23.278611000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!27.07.2018 00:20:23.274948000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!27.07.2018 00:20:23.275035000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151455664376537669219105507730824947392!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BACV!';
+  l_varchar2(4) :=q'!144753189966671884523750114199660706564!';
+  l_clob(5) :=q'!27Jul18 - The supplier contacted purchasing to advise that the price is incorrect. The quote supplied by Louis was a shopping cart print out. There was a delay as Ascent (supplier) had to be reactivated in Oracle. Bessie is asking Nettie for extra funds. PO will need to be cancelled and redone with the new price.!';
+  l_varchar2(6) :=q'!27.07.2018 00:38:53.072771000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!27.07.2018 00:38:53.070486000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!27.07.2018 00:38:53.070594000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151750476293954778661029547687260507863!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BAEC!';
+  l_varchar2(4) :=q'!143827514181196719951124192614796807405!';
+  l_clob(5) :=q'!30Jul18 - Sent email to Rowena Scofield, Dhairesh Patel and Sanjoy Nand to ask who will be liaising with Sylvester Kuo at Rollex regarding the medical freezer. Also asked if they need me to raise a PO for the data outlet installation to be done by Health Alliance.!';
+  l_varchar2(6) :=q'!29.07.2018 20:21:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!29.07.2018 20:21:03.038700000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!29.07.2018 20:32:13.649409000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151750476293957196512668776945609920215!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAEE!';
+  l_varchar2(4) :=q'!143813490590685842792849816197492692538!';
+  l_clob(5) :=q'!30Jul18 - Sent email to Rowena Scofield, Dhairesh Patel and Sanjoy Nand to ask who will be liaising with Sylvester Kuo at Rollex regarding the medical fridge. Also asked if they need me to raise a PO for the data outlet installation to be done by Health Alliance.!';
+  l_varchar2(6) :=q'!29.07.2018 20:22:05.707003000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!29.07.2018 20:22:05.706646000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!29.07.2018 20:22:05.706693000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151750923028407980446758998358656552138!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BAEV!';
+  l_varchar2(4) :=q'!143735571422709917654734971653568875573!';
+  l_clob(5) :=q'!30Jul18 - Sent email to Rowena Scofield, Dhairesh Patel and Sanjoy Nand to ask who will be liaising with Sylvester Kuo at Rollex regarding the medical fridge. Also asked if they need me to raise a PO for the data outlet installation to be done by Health Alliance.!';
+  l_varchar2(6) :=q'!29.07.2018 20:26:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!29.07.2018 20:26:50.052616000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!29.07.2018 20:34:11.938012000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151750923028412816150037456875355376842!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAEX!';
+  l_varchar2(4) :=q'!143826774874760838817833777602432348515!';
+  l_clob(5) :=q'!30Jul18 - Sent email to Rowena Scofield, Dhairesh Patel and Sanjoy Nand to ask who will be liaising with Sylvester Kuo at Rollex regarding the medical freezer. Also asked if they need me to raise a PO for the data outlet installation to be done by Health Alliance.!';
+  l_varchar2(6) :=q'!29.07.2018 20:31:27.121490000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!29.07.2018 20:31:27.121131000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!29.07.2018 20:31:27.121226000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151756939602410453286892972084579552581!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAEP!';
+  l_varchar2(4) :=q'!133808779645960907381658674030250307538!';
+  l_clob(5) :=q'!!';
+  l_varchar2(6) :=q'!29.07.2018 21:53:18.660764000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!29.07.2018 21:53:18.660381000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!29.07.2018 21:53:18.660501000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151758148332741734357287881906972327740!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAFF!';
+  l_varchar2(4) :=q'!133808779645960907381658674030250307538!';
+  l_clob(5) :=q'!30Jul18 - This is a lease so a PO has not been raised.!';
+  l_varchar2(6) :=q'!29.07.2018 22:06:26.698404000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!29.07.2018 22:06:26.684398000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!29.07.2018 22:06:26.684511000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151764514155995308677358769510634232620!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAF1!';
+  l_varchar2(4) :=q'!127941466521463550294325322349189843998!';
+  l_clob(5) :=q'!30Jul18 - Gina said they have got a new quote for the distraction lighting. Hold and don't purchase until advised by Gina.!';
+  l_varchar2(6) :=q'!29.07.2018 23:36:29.083833000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!29.07.2018 23:36:29.083465000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!29.07.2018 23:36:29.083591000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151770091866542144915201964748477099068!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAF3!';
+  l_varchar2(4) :=q'!143733227673027108184088760440366834990!';
+  l_clob(5) :=q'!30Jul18 - Accounts has queried receipt of the wheelchair so they can pay the invoice. Sharn Reed has confirmed the service has not received the wheelchair. Emailed CE on 30/7/18 to check if they have seen it.!';
+  l_varchar2(6) :=q'!30.07.2018 01:01:00.652634000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!30.07.2018 01:01:00.652158000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!30.07.2018 01:01:00.652291000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151770673381412993958245353802422851817!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAGJ!';
+  l_varchar2(4) :=q'!137456667466665661280902896916135425153!';
+  l_clob(5) :=q'!30Jul18 - Terri England has emailed to advise that OrthoMedics have applied the prices as per hA contract so the price is $3416.80 less than original quote. Terri is asking if they can use the surplus funds for other instruments not on the original CER form. Bessie advised to ask Shirley in our team meeting today - 30/7/18.!';
+  l_varchar2(6) :=q'!30.07.2018 01:04:39.446727000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!30.07.2018 01:04:39.442762000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!30.07.2018 01:04:39.442810000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151865994339712966126251231601060777193!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAH7!';
+  l_varchar2(4) :=q'!125143392254426090627004938662573792236!';
+  l_clob(5) :=q'!31Jul18 - Alan has emailed to advise that the budget has been increased.!';
+  l_varchar2(6) :=q'!30.07.2018 22:53:14.822618000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!30.07.2018 22:53:14.810649000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!30.07.2018 22:53:14.810840000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151868178452384772195657875705033425193!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAID!';
+  l_varchar2(4) :=q'!148214848700601102953370396455506554634!';
+  l_clob(5) :=q'!31Jul18 - The updated quote had higher prices. Bill negotiated with the supplier re:the price staying the same and supplier sent new quote dated 31/7/18.!';
+  l_varchar2(6) :=q'!30.07.2018 23:26:44.826471000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!30.07.2018 23:26:44.825997000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!30.07.2018 23:26:44.826129000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151872189205333232274614269980594410037!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAJV!';
+  l_varchar2(4) :=q'!137456667466665661280902896916135425153!';
+  l_clob(5) :=q'!31Jul18 - The surplus from the savings on the OrthoMed instruments cannot be spent on ORL instruments as the original capex was for Ophthalmology (Phaco machine and Ozil Handpieces for cataract surgery), as advised by Shirley and Louis - 31/7/18.!';
+  l_varchar2(6) :=q'!31.07.2018 00:18:39.097554000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!31.07.2018 00:18:39.083296000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!31.07.2018 00:18:39.083482000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151874204470689611988391283184550823973!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAJ2!';
+  l_varchar2(4) :=q'!130681999342594401675609972749980437963!';
+  l_clob(5) :=q'!31Jul18 - Alan Fowlie has sent the CER# - 31/7/18.!';
+  l_varchar2(6) :=q'!31.07.2018 00:47:34.979390000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!31.07.2018 00:47:34.976709000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!31.07.2018 00:47:34.976841000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151874204470693238765850127072074942501!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAJ3!';
+  l_varchar2(4) :=q'!125142665509034927453896853261195725950!';
+  l_clob(5) :=q'!31Jul18 - Alan Fowlie has sent the CER#.!';
+  l_varchar2(6) :=q'!31.07.2018 00:48:13.796342000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!31.07.2018 00:48:13.795972000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!31.07.2018 00:48:13.796043000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151874204470695656617489356330424354853!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAJ4!';
+  l_varchar2(4) :=q'!127941466521463550294325322349189843998!';
+  l_clob(5) :=q'!31Jul18 - Alan Fowlie has sent the CER#. Emailed Gina as she mentioned that there has been a change and to hold off on purchasing. Asked her to advise if this is still the case.!';
+  l_varchar2(6) :=q'!31.07.2018 00:49:19.415159000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!31.07.2018 00:49:19.414787000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!31.07.2018 00:49:19.414894000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151882818398840915064445553195556329174!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAK4!';
+  l_varchar2(4) :=q'!143942663956690270717985150343769227553!';
+  l_clob(5) :=q'!31Jul18 - Sent to John Black as Sugumar does the purchasing for projects where John is the Service Manager.!';
+  l_varchar2(6) :=q'!31.07.2018 02:48:36.158155000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!31.07.2018 02:48:36.155520000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!31.07.2018 02:48:36.155624000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151884809314708056826193259107780927115!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAKN!';
+  l_varchar2(4) :=q'!130681999342594401675609972749980437963!';
+  l_clob(5) :=q'!31Jul18 - Alan Fowlie sent CER# - 31/7/18.!';
+  l_varchar2(6) :=q'!31.07.2018 03:13:37.788766000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!31.07.2018 03:13:37.786261000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!31.07.2018 03:13:37.786408000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!151950066018491885937507970663016345286!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BALK!';
+  l_varchar2(4) :=q'!141638685621951213671872649016654957739!';
+  l_clob(5) :=q'!01Aug18 - Sandip Mistry from CE requested an ETA. Sarah Chidgey from Stryker emailed on 31/7/18 with ETA of 22/10/18. She said there is a very long lead time for the manufacturing of these beds currently - 1/8/18.!';
+  l_varchar2(6) :=q'!31.07.2018 18:12:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!31.07.2018 18:12:17.273133000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!31.07.2018 18:13:10.332545000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152064982550715113833849853424266167600!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAPK!';
+  l_varchar2(4) :=q'!148216009012054600985695401863193298861!';
+  l_clob(5) :=q'!02Aug18 - Joanne sent CER to Jenny Otway, PA to Mark Casey - 2/8/18!';
+  l_varchar2(6) :=q'!01.08.2018 20:36:34.003939000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!01.08.2018 20:36:34.000753000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!01.08.2018 20:36:34.000922000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152085041150350977209464646453068338305!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAR8!';
+  l_varchar2(4) :=q'!151464031898721762049790195941317042281!';
+  l_clob(5) :=q'!Bessie is following up with Krishneil about submitting a CER for the full amount.!';
+  l_varchar2(6) :=q'!02.08.2018 01:13:06.102410000 +00:00!';
+  l_clob(7) :=q'!bessie.pone@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 01:13:06.085437000 +00:00!';
+  l_clob(13) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 01:13:06.085772000 +00:00!';
+  l_clob(15) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152092231916619630811730864242512665948!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BASU!';
+  l_varchar2(4) :=q'!150634872994629564883848272357962320469!';
+  l_clob(5) :=q'!02Aug18 - Hand delivered CER to Mary Murdie on 2/8/18. She is going to ask Dana to sign it and then she will hand deliver it to Christine Lockhart for Phillip Balmer's signature.!';
+  l_varchar2(6) :=q'!02.08.2018 02:53:34.826195000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 02:53:34.821637000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 02:53:34.821762000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152141848397042449406448526914505936020!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAUZ!';
+  l_varchar2(4) :=q'!143734705476009083136357774825651721124!';
+  l_clob(5) :=q'!03Aug18 - Logged Cherwell request # 1170175 for name change - ECS is now ECS Diatec. 
+Sent CER for signatures - 3/8/18.!';
+  l_varchar2(6) :=q'!02.08.2018 19:25:44.806817000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 19:25:44.791641000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 19:25:44.791789000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152145560210222428664268082714759682016!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BATF!';
+  l_varchar2(4) :=q'!150634872994629564883848272357962320469!';
+  l_clob(5) :=q'!3/8/18 - Emailed from Mary Murdie on 2/8/18: Just fyi, Dana has signed it and its now sitting with Christine Lockhart for Phillip’s signature.  Should hopefully have that Monday.  Will let you know and either you or I can shoot down and get it.  ¿!';
+  l_varchar2(6) :=q'!02.08.2018 18:35:31.503976000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 18:35:31.502178000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 18:35:31.502353000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152160044140668059912779168050483854843!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BATD!';
+  l_varchar2(4) :=q'!144753189966685182707765875120582474500!';
+  l_clob(5) :=q'!03Aug18 - An email from David Venables (supplier) to advise ETA for surgical loupes will be today 3/8/18. Advised Audrey Hauraki who was asking for the ETA  - 3/8/18.!';
+  l_varchar2(6) :=q'!02.08.2018 18:28:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 18:28:37.653941000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 21:17:59.170593000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152169810288984102496476730769726539905!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAV4!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!03Aug18 - Rang supplier for updated quote as not responding to emails. Received updated quote. Sent CER for signatures.!';
+  l_varchar2(6) :=q'!02.08.2018 20:48:54.836366000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 20:48:54.833943000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 20:48:54.834096000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152172239438796726314938422966749033753!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAUL!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!03Aug18 - Hand delivered CER to Sarah Burr for Dot McKeen's signature.!';
+  l_varchar2(6) :=q'!02.08.2018 21:15:14.824067000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 21:15:14.819149000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 21:15:14.819324000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152172812554122756587794226354307503274!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BAUO!';
+  l_varchar2(4) :=q'!150497694951065631522164096342527057178!';
+  l_clob(5) :=q'!03Aug18 - Waiting for procurement endorsement before sending out for signatures - 3/8/18.!';
+  l_varchar2(6) :=q'!02.08.2018 21:28:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 21:28:48.411975000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 21:29:44.168852000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152182290683252941844683014656897092390!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAW9!';
+  l_varchar2(4) :=q'!150419574833626323591504432380800454353!';
+  l_clob(5) :=q'!03Aug18 - Waiting for the name of the person who is to be the 1st signatory. Bryce emailed Bernadette County on 2/8/18 and asked her if she was happy to be the signatory. Awaiting her response - 3/8/18.!';
+  l_varchar2(6) :=q'!02.08.2018 23:37:39.237772000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 23:37:39.237358000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 23:37:39.237483000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152182822790716019366969427680199214161!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BAXE!';
+  l_varchar2(4) :=q'!150732131568285176644829839596769249602!';
+  l_clob(5) :=q'!03Aug18 - Budget type to be added to CER form. Bryce is waiting for Krishneil to provide a quote before sending out for signatures - 3/8/18.!';
+  l_varchar2(6) :=q'!02.08.2018 23:44:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 23:44:22.571498000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!03.08.2018 00:45:47.776081000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152183200704700450806648267497676767108!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAYK!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!03Aug18 - Sarah Burr has advised that Dot has signed CER and it's been has sent to Christine Lockhart via internal mail today - 3/8/18.!';
+  l_varchar2(6) :=q'!03.08.2018 00:21:06.745814000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!03.08.2018 00:21:06.743652000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!03.08.2018 00:21:06.743775000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152183857506860533344869756940225135160!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAXS!';
+  l_varchar2(4) :=q'!151765790041978118820353078235425953843!';
+  l_clob(5) :=q'!03Aug18 - Sent out for signatures - in between meetings capex. Memo sent out by Christine today - 3/8/18.!';
+  l_varchar2(6) :=q'!02.08.2018 23:57:33.168920000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!02.08.2018 23:57:33.161876000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!02.08.2018 23:57:33.162035000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152186001138377770516936135731485346610!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAYM!';
+  l_varchar2(4) :=q'!152094873447429797317354775202776282144!';
+  l_clob(5) :=q'!Purchase 5 from Active for discounted price.
+Puke also needs 2 18190027.!';
+  l_varchar2(6) :=q'!03.08.2018 00:24:58.240713000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!03.08.2018 00:24:58.230262000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!03.08.2018 00:24:58.230426000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152475960640775260176183398100324061399!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BAZ1!';
+  l_varchar2(4) :=q'!146957245326111183442802941785273051850!';
+  l_clob(5) :=q'!Emailed procurement to find alternate model and supplier due to Laborie Medical's merge with Cogentix Medical, which affects all Laborie equipment 06/08/18!';
+  l_varchar2(6) :=q'!05.08.2018 19:09:10.587178000 +00:00!';
+  l_clob(7) :=q'!bessie.pone@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!05.08.2018 19:09:10.577643000 +00:00!';
+  l_clob(13) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!05.08.2018 19:09:10.577793000 +00:00!';
+  l_clob(15) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152485317480826436418124055084308128044!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BA1Q!';
+  l_varchar2(4) :=q'!143295957010050368626087382064093256983!';
+  l_clob(5) :=q'!Bessie has checked with Louis and Iain if this needs CE endorsement!';
+  l_varchar2(6) :=q'!05.08.2018 21:14:53.153528000 +00:00!';
+  l_clob(7) :=q'!bessie.pone@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!05.08.2018 21:14:53.144751000 +00:00!';
+  l_clob(13) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!05.08.2018 21:14:53.144911000 +00:00!';
+  l_clob(15) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152494471648494483490628458333178992232!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BA2A!';
+  l_varchar2(4) :=q'!150634872994629564883848272357962320469!';
+  l_clob(5) :=q'!06Aug18 - Collected CER from Christine Lockhart. Emailed Timneen to ask if she would like it sent to her via internal mail or to wait for Weds when she is visiting MMH.!';
+  l_varchar2(6) :=q'!05.08.2018 23:27:21.075629000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!05.08.2018 23:27:21.072674000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!05.08.2018 23:27:21.072849000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152505364552303565757345658290244953868!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BA0G!';
+  l_varchar2(4) :=q'!143734705476009083136357774825651721124!';
+  l_clob(5) :=q'!06Aug18 - Sent to Alan Fowlie for project set up - 6/8/18 
+Cherwell request # 1170175 has been done. ECS changed to ECS Diatec.  
+!';
+  l_varchar2(6) :=q'!06.08.2018 01:47:49.456956000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!06.08.2018 01:47:49.454476000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!06.08.2018 01:47:49.454667000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152508542103051765960197184308348987481!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BA2U!';
+  l_varchar2(4) :=q'!147075259734606909294750929112257041433!';
+  l_clob(5) :=q'!Purchase with Y18190009	Wd 5 Invisabeams x 3 for buy 5 discount.!';
+  l_varchar2(6) :=q'!06.08.2018 02:32:40.921804000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!06.08.2018 02:32:40.920817000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!06.08.2018 02:32:40.920914000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152512282735048977829441957859364201385!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BA2Y!';
+  l_varchar2(4) :=q'!126186005838123157157285486463701221582!';
+  l_clob(5) :=q'!No CER.
+Email to Debbie Minton requesting it.!';
+  l_varchar2(6) :=q'!06.08.2018 03:25:58.480612000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!06.08.2018 03:25:58.479518000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!06.08.2018 03:25:58.479629000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152578417574704943379476529087945390604!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BA5J!';
+  l_varchar2(4) :=q'!144681401730386857239213328986398307114!';
+  l_clob(5) :=q'!07Aug18 - Karen from Connected Healthcare Systems has emailed with ETA of 2 days for phototherapy units.!';
+  l_varchar2(6) :=q'!06.08.2018 18:57:26.725005000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!06.08.2018 18:57:26.706145000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!06.08.2018 18:57:26.706327000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152587846926351261025818504233747249426!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BA5S!';
+  l_varchar2(4) :=q'!144753189966671884523750114199660706564!';
+  l_clob(5) :=q'!07Aug18 - Bessie emailed the supplier on 31/7/18 to explain the long process of asking for more funds. The supplier agreed to hold the price at the old price so the PO doesn't need to be cancelled. Purchasing are processing it as normal.!';
+  l_varchar2(6) :=q'!06.08.2018 20:44:57.278774000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!06.08.2018 20:44:57.275078000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!06.08.2018 20:44:57.275227000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152606901705385426676143250781099581737!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BA8V!';
+  l_varchar2(4) :=q'!150419574833626323591504432380800454353!';
+  l_clob(5) :=q'!07Aug18 - Followed up Bernie re: the name of the 1st signatory. Bernie is no longer in this department. Di Lemm is the acting People & Professional Development Manager. Spoke to Di and she will sign CER. Sending out for signature 7/8/18.!';
+  l_varchar2(6) :=q'!07.08.2018 01:14:14.765957000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!07.08.2018 01:14:14.759303000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!07.08.2018 01:14:14.759464000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152611014215954129150467375316408749352!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BA6Y!';
+  l_varchar2(4) :=q'!143295957010050368626087382064093256983!';
+  l_clob(5) :=q'!07Aug18 - Joanne emailed Terri England on 6/8/18 to query whether the Keeler LogMAR Crowded Test Set is being purchased from OIC or Designs for Visions. On the CER it has the supplier as Designs for Vision but the price is $875 which is the price from OIC.!';
+  l_varchar2(6) :=q'!07.08.2018 02:05:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!07.08.2018 02:05:11.016544000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!07.08.2018 02:06:03.547576000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152694643918885226200891128119970010045!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBB7!';
+  l_varchar2(4) :=q'!149764385503129031897341334484073328066!';
+  l_clob(5) :=q'!08Aug18 - Waiting for procurement to endorse quote from OrthoMedics. Once received I will request updated quotes before sending out for signatures - 8/8/18.!';
+  l_varchar2(6) :=q'!07.08.2018 21:24:03.511600000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!07.08.2018 21:24:03.497538000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!07.08.2018 21:24:03.497667000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152696936611859944985530270751530961229!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BBBV!';
+  l_varchar2(4) :=q'!148216009012054600985695401863193298861!';
+  l_clob(5) :=q'!08Aug18 - Quotes have expired. Joanne has requested updated quotes before sending to Phillip Balmer for signature.
+Updated quotes received from Helen Hanna. 
+Sent to Phillip Balmer for signature - 8/8/18 !';
+  l_varchar2(6) :=q'!07.08.2018 21:52:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!07.08.2018 21:52:23.508149000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!07.08.2018 23:41:55.057482000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152708858731638194994408588762080403526!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBDV!';
+  l_varchar2(4) :=q'!150408021518961053990381987591696974306!';
+  l_clob(5) :=q'!08Aug18 - Sent to Paul Eldridge for project ID number - 8/8/18!';
+  l_varchar2(6) :=q'!08.08.2018 00:33:25.883365000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!08.08.2018 00:33:25.869313000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!08.08.2018 00:33:25.869457000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152710925078173517116595690571345721390!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBEF!';
+  l_varchar2(4) :=q'!145379707991223049913865950127876487747!';
+  l_clob(5) :=q'!08Aug18 - Sent to Alan Fowlie for project set up - 8/8/18!';
+  l_varchar2(6) :=q'!08.08.2018 01:07:09.808572000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!08.08.2018 01:07:09.798040000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!08.08.2018 01:07:09.798179000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152712936877802579086746176365326500226!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBEM!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!08Aug18 - Sent to Alan Fowlie for project set up - 8/8/18!';
+  l_varchar2(6) :=q'!08.08.2018 01:29:36.537260000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!08.08.2018 01:29:36.536794000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!08.08.2018 01:29:36.536917000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152799638040897652577231434764448964989!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBKK!';
+  l_varchar2(4) :=q'!152797686980529638823113708177070004210!';
+  l_clob(5) :=q'!Supplied from CE fleet.!';
+  l_varchar2(6) :=q'!08.08.2018 21:30:58.301691000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!08.08.2018 21:30:58.299232000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!08.08.2018 21:30:58.299370000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152800914425663826343517267925855422124!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBJ2!';
+  l_varchar2(4) :=q'!147075259734606909294750929112257041433!';
+  l_clob(5) :=q'!Purchase also with Y18190010 Ward 23.!';
+  l_varchar2(6) :=q'!08.08.2018 21:42:22.580891000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!08.08.2018 21:42:22.579845000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!08.08.2018 21:42:22.580011000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152816377302275850530499206676080232980!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBMQ!';
+  l_varchar2(4) :=q'!140997792087687851462533309792634280704!';
+  l_clob(5) :=q'!09Aug18 - Memo from A&C meeting on 26/4/18 - Laptop  – Y17181056 - $1,557.50 – NASC Winter Demand Initiative, Integrated Care
+Recommendation of the Committee was to endorse this proposal for one laptop and defer the second one until decision on use of additional beds at MSC was made
+2nd laptop approved at in between meeting on 8/6/18 for $1558.00.
+Paul didn't require a 2nd CER form to be signed, he was able to increase the project ID number for the 2nd laptop. 
+
+!';
+  l_varchar2(6) :=q'!09.08.2018 01:16:06.952801000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 01:16:06.949730000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 01:16:06.949848000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152817132880633699497580068270951381124!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBM3!';
+  l_varchar2(4) :=q'!147685343885893638039131842927244654393!';
+  l_clob(5) :=q'!09Aug18 - Memo from A&C meeting on 28/6/18 - Desktop computer – Y17181068 - $1,028 – Organisational Development Team.
+Recommendation of the Committee was to endorse this proposal and for one of the PCs to be returned from Finance to be food chained to the Organisational Development team
+!';
+  l_varchar2(6) :=q'!09.08.2018 01:30:34.881641000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 01:30:34.874200000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 01:30:34.874596000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152818241702821389250623053686280834571!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBNE!';
+  l_varchar2(4) :=q'!148525944097597086932416641131296348580!';
+  l_clob(5) :=q'!09Aug18 - A signed CER was sent direct from Margaret's office.!';
+  l_varchar2(6) :=q'!09.08.2018 01:42:15.381386000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 01:42:15.379260000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 01:42:15.379406000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152822205844735677752457544130955593708!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBM7!';
+  l_varchar2(4) :=q'!148219013999294355644083008296178187739!';
+  l_clob(5) :=q'!09Aug18 - Notes from the A&C Meeting on 28/6/18 - Recommendation of the Committee was to endorse this proposal in principle with a limit of $400,000 and clear understanding that no further funding was prioritised for Awhinatia and Pukekohe building developments in the 2018/19 year. These costs will be funded from the 2017/18 Mental Health underspend.!';
+  l_varchar2(6) :=q'!09.08.2018 02:38:40.676581000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 02:38:40.670266000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 02:38:40.670425000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152889642275257595000533278157053905249!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBOZ!';
+  l_varchar2(4) :=q'!144681401730386857239213328986398307114!';
+  l_clob(5) :=q'!10Aug18 - Karen from Connected Healthcare emailed on 9/8/18 to say the ETA will now be next week - 10/8/18.!';
+  l_varchar2(6) :=q'!09.08.2018 18:05:36.556241000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 18:05:36.536593000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 18:05:36.536917000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152890134265744559157285665692212541584!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBOG!';
+  l_varchar2(4) :=q'!143733227673027108184088760440366834990!';
+  l_clob(5) :=q'!10Aug18 - Sharn rang on 9/8/18 to follow up on the ETA of the wheelchair. Contacted Bill from CE. He said the wheelchair is in their workshop getting the anti-theft modifications required and will be delivered to the service on Monday 13/8/18 at the latest.
+Emailed Sharn on 10/8/18 to let her know. !';
+  l_varchar2(6) :=q'!09.08.2018 18:12:27.180063000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 18:12:27.176259000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 18:12:27.176373000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152902973579713612095263372465318681049!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBQN!';
+  l_varchar2(4) :=q'!147075259734606909294750929112257041433!';
+  l_clob(5) :=q'!There are 7 invisa-beams in total to purchase at once. 18190010, 18190009, 18190027. To get the discounted rate for all.!';
+  l_varchar2(6) :=q'!09.08.2018 21:12:37.571105000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 21:12:37.556165000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 21:12:37.556270000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152903037385671828568864360779874094397!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBP8!';
+  l_varchar2(4) :=q'!152094873447429797317354775202776282144!';
+  l_clob(5) :=q'!There are 7 invisa-beams in total to purchase at once. 18190010, 18190009, 18190027. To get the discounted rate for all.!';
+  l_varchar2(6) :=q'!09.08.2018 21:10:25.542923000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 21:10:25.539777000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 21:10:25.539939000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152903037385674246420503590038223506749!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBQA!';
+  l_varchar2(4) :=q'!152798934771747276461116077890104773058!';
+  l_clob(5) :=q'!There are 7 invisa-beams in total to purchase at once. 18190010, 18190009, 18190027. To get the discounted rate for all.!';
+  l_varchar2(6) :=q'!09.08.2018 21:10:51.415617000 +00:00!';
+  l_clob(7) :=q'!bryce.cowley@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 21:10:51.415258000 +00:00!';
+  l_clob(13) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 21:10:51.415332000 +00:00!';
+  l_clob(15) :=q'!BRYCE.COWLEY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152904003617850537255303845473327829249!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBQG!';
+  l_varchar2(4) :=q'!143734705476009083136357774825651721124!';
+  l_clob(5) :=q'!10Aug18 - Marie Townsley is following up on the ETA of the auditometers. Emailed David from ECS Diatec on 10/8/18 to ask for lead time. Emailed Alan Fowlie on 10/8/18 to ask if the project can jump the queue as there have been many delays getting to the stage of opening a project. Amended memo with higher price was sent out on 18/7/18.!';
+  l_varchar2(6) :=q'!09.08.2018 21:27:27.161874000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 21:27:27.159915000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 21:27:27.160167000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152904642684954739856077902338480459540!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BBQL!';
+  l_varchar2(4) :=q'!147676535112025388694554073923138103392!';
+  l_clob(5) :=q'!10Aug18 - The notes from the July A&C meeting: 
+At the June meeting, Louis Havinga advised he was not aware of problems with this equipment but would investigate and report to the July meeting.
+Louis Havinga was not at the meeting so Bill Armstrong advised he will follow-up with Louis.  If this equipment is still required, the Committee requested it to come back to the meeting as a contingency request from the 2018/19 contingency fund - 10/8/18.
+
+!';
+  l_varchar2(6) :=q'!09.08.2018 21:40:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 21:40:35.177812000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 21:42:18.093773000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152905948415231741203166972440648389354!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBQQ!';
+  l_varchar2(4) :=q'!150634872994629564883848272357962320469!';
+  l_clob(5) :=q'!10Aug18 - Notes from the July A&C Meeting - Timneen Taljard advised this had been discussed by the Audit, Risk and Finance Committee on 25 July 2018.  However, the national Capital Investment Committee were still to consider it as well. There was a very tight timeframe to get the design to the Ministry by next March.
+
+Recommendation of the ARF Committee to the Board was to commence the preliminary design work of $10,000-$15,000 that had been approved so the CER would be opened to the full amount.  If the project does not get final approvals from CIC, a paper will go to ELT regarding next steps
+!';
+  l_varchar2(6) :=q'!09.08.2018 21:54:44.188841000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 21:54:44.187073000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 21:54:44.187197000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152908516226205447863834476439738780026!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BBT4!';
+  l_varchar2(4) :=q'!148197801573262838882737096238151022968!';
+  l_clob(5) :=q'!10Aug18 - Updated quote received 9/8/18. Sent out for signatures - 10/8/18.!';
+  l_varchar2(6) :=q'!09.08.2018 22:25:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 22:25:48.702923000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 22:43:12.888693000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152911750746195938794342159382444007174!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BBUV!';
+  l_varchar2(4) :=q'!143734705476009083136357774825651721124!';
+  l_clob(5) :=q'!10Aug18 - David has emailed with ETA of 3-4 weeks for the audiometers - 10/8/18.!';
+  l_varchar2(6) :=q'!09.08.2018 23:10:24.239539000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 23:10:24.235328000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 23:10:24.235484000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!152912562124466261012671105199527226635!';
+  l_varchar2(2) :=q'!2!';
+  l_clob(3) :=q'!BBU5!';
+  l_varchar2(4) :=q'!150317448169666060660194880256647941880!';
+  l_clob(5) :=q'!10Aug18 - Sent signed CER to Paul Eldridge on 10/8/18 for project ID number - 10/8/18.!';
+  l_varchar2(6) :=q'!09.08.2018 23:21:00.000000000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!09.08.2018 23:21:35.391587000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!09.08.2018 23:22:28.214255000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153221337216854669070143955027421313153!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB12!';
+  l_varchar2(4) :=q'!143295957010050368626087382064093256983!';
+  l_clob(5) :=q'!13Aug18 - Follow up email to Terri and Nikki on 13/8/18 to confirm if Keeler LogMAR Crowded Test Set is to be purchased from OIC or Designs for Visions. Nikki replied to say that she needs to check with the orthoptist if they are the exact same product before ordering the cheaper one - 13/8/18.!';
+  l_varchar2(6) :=q'!12.08.2018 22:30:47.926534000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!12.08.2018 22:30:47.923146000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!12.08.2018 22:30:47.923288000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153223305872747792266022275192305017204!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB2B!';
+  l_varchar2(4) :=q'!137436805167156001909441615320803199922!';
+  l_clob(5) :=q'!13Aug18 - The memo from 22 March 2018 - Desktop computer – Y17181047 - Computer to be food-chained via Asset Team.
+The desktop from Mental Health is being reallocated to Y17181047.
+Email from Jude to Paul Eldridge on 26/3/18: Once the new laptop for Y17181048 - Laptop for GM is installed, they have agreed to surrender their desktop PC CMH037686. Can this be foodchained to Y17181047 - Computer for Bowel Screening Admin please in lieu of new equipment please?
+Email from Paul Eldridge to Kathy Pritchard on 11/6/18: Hi Kathy (and Joanne),
+Sadly the building of either pc’s or laptops devices has been halted. We have an issue with the imaging.
+It’s pretty serious as it’s been escalated to Microsoft. 
+There’s a backlog….
+13Aug18 - Emailed Paul to check if Bowel Screening has their computer. 
+
+!';
+  l_varchar2(6) :=q'!12.08.2018 22:45:36.608579000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!12.08.2018 22:45:36.595591000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!12.08.2018 22:45:36.595732000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153229006375872603623121115929547422394!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB2Z!';
+  l_varchar2(4) :=q'!137436805167156001909441615320803199922!';
+  l_clob(5) :=q'!13Aug18 - Update from Paul Eldridge on 13/8/18:
+Hi Joanne,
+Sharon Ranson has it.
+My job #: 2215120 reference:
+Hasitha Samarasinha advises: When you get our PC after passing them a laptop, it will come to you for a build (Job # 2215120)
+When you are ready to deliver our PC and screen, please deliver to:
+Sharon Ranson (Ext: 57649 | M: 021920801)
+Level 2, Gastro Department (Ward 32)
+Sir Edmund Hilary Block
+Middlemore Hospital.
+Thanks for chasing this up… Sharon, if you require a PC to tie you over until this job gets completed I can bring it over this Friday when I see you.
+Thanks,
+Has
+Hasitha Samarasinha
+Project Manager  Bowel Screening Counties Manukau
+!';
+  l_varchar2(6) :=q'!13.08.2018 00:07:49.839936000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 00:07:49.836934000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 00:07:49.837075000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153231121656578048236303772630213476508!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB23!';
+  l_varchar2(4) :=q'!143735571422709917654734971653568875573!';
+  l_clob(5) :=q'!13Aug18 - Raised requisition # 979591 for the data outlet installation. Noel Saunders on 021 318 624 is the contact person at Health Alliance. He is organising Sharp to come in.!';
+  l_varchar2(6) :=q'!13.08.2018 00:33:21.661894000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 00:33:21.660593000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 00:33:21.660739000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153231608548459351801735796952495067131!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB24!';
+  l_varchar2(4) :=q'!143813490590685842792849816197492692538!';
+  l_clob(5) :=q'!13Aug18 - Requisition # 979595 raised for the data outlet installation for the Medical Fridge. Noel Saunders is the contact person at Health Alliance and he will organise Sharp to come in.!';
+  l_varchar2(6) :=q'!13.08.2018 00:40:04.408452000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 00:40:04.408068000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 00:40:04.408167000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153232530331505221654728525776432175104!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB26!';
+  l_varchar2(4) :=q'!143827514181196719951124192614796807405!';
+  l_clob(5) :=q'!13Aug18 - Raised requisition # 979597 for the data outlet installation. The contact person at Health Alliance is Noel Saunders - 021 318 624. He is going to organise Sharp to come in.!';
+  l_varchar2(6) :=q'!13.08.2018 00:53:44.185032000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 00:53:44.184673000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 00:53:44.184809000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153232530331508848432187369663956293632!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB28!';
+  l_varchar2(4) :=q'!143826774874760838817833777602432348515!';
+  l_clob(5) :=q'!13Aug18 - Raised requisition (service hide price)# 979598 for the data outlet installation for the Medical Freezer for Scott Dialysis. The contact person at Health Alliance is Noel Saunders - 021 318 624. He is going to organise Sharp to come in.!';
+  l_varchar2(6) :=q'!13.08.2018 00:55:26.001058000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 00:55:26.000704000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 00:55:26.000829000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153233421709348636316421941181973059941!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB3I!';
+  l_varchar2(4) :=q'!147685343885893638039131842927244654393!';
+  l_clob(5) :=q'!13Aug18 - Update requested from Paul Eldridge as below: 
+Hi Joanne,
+Duly installed 8/8/2018 under job #: 2263750:
+Tech, Please re-image 1x HP 800 G2 PC, pc: CMH067450. Held in storeroom with a copy of job attached. 
+No peripherals requested but do take a mouse and keyboard.
+Contact: Jenny Powell x56588 / 021941909   
+Organisational Development team
+Location: Rm 308, 3rd Floor, Esme Green bldg.
+My notes: Issued under Asset and Capital Committee Approval letter dated 29th June, 2018.
+CER Application form advises that they have a screen.
+REF: Y17181068
+
+!';
+  l_varchar2(6) :=q'!13.08.2018 01:12:04.936378000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 01:12:04.934336000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 01:12:04.934484000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153234206540178568984323036237724954151!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB3O!';
+  l_varchar2(4) :=q'!147812139510252578985950930078303813645!';
+  l_clob(5) :=q'!13Aug18 - Follow up email to Sue Shipperlee to check if she has received the CER that was sent to her via internal mail on 24/7/18. This is 2 weeks tomorrow, so checking that it hasn't been lost in the mail.!';
+  l_varchar2(6) :=q'!13.08.2018 01:29:08.564297000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 01:29:08.562749000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 01:29:08.562884000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153235448463778345318829039891252000594!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB31!';
+  l_varchar2(4) :=q'!132107911832013244625391989057429198182!';
+  l_clob(5) :=q'!13Aug18 - This CER is to request additional funding of $166K for the KA11 carpark under project number CM16CNB1352.!';
+  l_varchar2(6) :=q'!13.08.2018 01:39:53.453967000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 01:39:53.453163000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 01:39:53.453324000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153237520878199351361242226071786249886!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB34!';
+  l_varchar2(4) :=q'!143318270386173813614864245932472144118!';
+  l_clob(5) :=q'!13Aug18 - Sent follow up email to Rebecca Ellis as Y17189049 was sent to Timneen on 10/7/18 for Margaret's signature and it hasn't been returned. Checking that it's still with Margaret or Timneen and hasn't got lost in the internal mail.!';
+  l_varchar2(6) :=q'!13.08.2018 02:01:34.973972000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 02:01:34.972646000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 02:01:34.972779000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153238007768755655903008111585636701664!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB4B!';
+  l_varchar2(4) :=q'!151765790041978118820353078235425953843!';
+  l_clob(5) :=q'!13Aug18 - Follow up email to Rosie Whittington to check that she's received CER. It was sent to her on Friday 3/8/18 via internal mail.!';
+  l_varchar2(6) :=q'!13.08.2018 02:18:31.015257000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 02:18:31.014875000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 02:18:31.014988000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153238880984453238263050624812788230110!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB4F!';
+  l_varchar2(4) :=q'!150634872994629564883848272357962320469!';
+  l_clob(5) :=q'!13Aug18 - Timneen collected the CER on Monday 6/8/18 and will give it to Margaret.!';
+  l_varchar2(6) :=q'!13.08.2018 02:22:42.116803000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 02:22:42.115360000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 02:22:42.115508000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153238880984471372150344844250408822750!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB4H!';
+  l_varchar2(4) :=q'!150497694951065631522164096342527057178!';
+  l_clob(5) :=q'!13Aug18 - Follow up email to Sorrel to check that she's received the CER. It was sent to her on 3/8/18 via internal mail.!';
+  l_varchar2(6) :=q'!13.08.2018 02:29:32.997860000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 02:29:32.996861000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 02:29:32.997042000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153239073538123587721029077311920329558!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB43!';
+  l_varchar2(4) :=q'!151765790041978118820353078235425953843!';
+  l_clob(5) :=q'!13Aug18 - Rosie has confirmed that she's signed the CER and has sent it on to Christine Lockhart for Phillip Balmer's signature - 13/8/18.!';
+  l_varchar2(6) :=q'!13.08.2018 02:41:11.227896000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 02:41:11.224761000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 02:41:11.224925000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153240714301494492167167992514652971472!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB44!';
+  l_varchar2(4) :=q'!143318270386173813614864245932472144118!';
+  l_clob(5) :=q'!13Aug18 - Rebecca has emailed in response to my email about the location of the CER: i.e. is it still with Margaret? 
+Yes it is – it has been waiting for a dispensation form (as this should have been provided with the CER).
+Avinesh sent it through end last week; however it now has some unanswered questions which I have sent back to him.
+So, in other words, still not able to be signed as yet.
+I will let you know as soon as its signed.
+!';
+  l_varchar2(6) :=q'!13.08.2018 02:45:36.511638000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 02:45:36.510488000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 02:45:36.510604000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153241611872287816076318034002573016364!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB46!';
+  l_varchar2(4) :=q'!150497694951065631522164096342527057178!';
+  l_clob(5) :=q'!13Aug18 - Sorrel has emailed - she has signed CER and it's gone to Brad Healey for his signature - 13/8/18.!';
+  l_varchar2(6) :=q'!13.08.2018 03:04:23.168940000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 03:04:23.168520000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 03:04:23.168661000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153316820631181511129790877996277320643!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BB7M!';
+  l_varchar2(4) :=q'!126186005838120739305646257205351809230!';
+  l_clob(5) :=q'!14Aug18 - Sent CER to Alan Fowlie on 14/8/18 for project set up - 14/8/18.!';
+  l_varchar2(6) :=q'!13.08.2018 20:14:50.195147000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 20:14:50.190828000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 20:14:50.190972000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153331597225520109667415909953700654483!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCBA!';
+  l_varchar2(4) :=q'!143318270386173813614864245932472144118!';
+  l_clob(5) :=q'!Kelly Dransfield has updated the CER form and is sending out for signatures to Keven Palmer, Avinesh and Margaret. She will send through a copy of the excel and signed CER form!';
+  l_varchar2(6) :=q'!13.08.2018 23:38:33.106458000 +00:00!';
+  l_clob(7) :=q'!bessie.pone@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 23:38:33.103405000 +00:00!';
+  l_clob(13) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 23:38:33.103616000 +00:00!';
+  l_clob(15) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153331707928816665185715185847148217001!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCAQ!';
+  l_varchar2(4) :=q'!133155540604251479309434434591231075095!';
+  l_clob(5) :=q'!14Aug18 - Gina has submitted the CER form. She's had it since May 2018 but not sure that it was sent to us? She wants to purchase accuvein. Needs CE and BM endorsement.!';
+  l_varchar2(6) :=q'!13.08.2018 23:40:04.679239000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!13.08.2018 23:40:04.674774000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!13.08.2018 23:40:04.674872000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153336688560700418653362987976100706353!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCAW!';
+  l_varchar2(4) :=q'!144033340038275672615088032958640854150!';
+  l_clob(5) :=q'!14Aug18 - Iain has advised at the CE endorsement meeting that the machine being traded in has been collected by the supplier. Bessie has asked CE for a decommission notice.
+Terri England has received an invoice. Have forwarded it on to Accounts.
+Advised Bessie we have received the invoice as she will do a journal for the $10K trade in discount. !';
+  l_varchar2(6) :=q'!14.08.2018 00:54:50.962834000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 00:54:50.961949000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 00:54:50.962085000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153342765961561629098286023618870387497!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCA1!';
+  l_varchar2(4) :=q'!147812139510252578985950930078303813645!';
+  l_clob(5) :=q'!14Aug18 - CER has been signed and collected from Christine Lockhart.!';
+  l_varchar2(6) :=q'!14.08.2018 02:12:31.666406000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 02:12:31.665029000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 02:12:31.665172000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153342765961565255875744867506394506025!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCA4!';
+  l_varchar2(4) :=q'!151765790041978118820353078235425953843!';
+  l_clob(5) :=q'!14Aug18 - CER signed and collected from Christine Lockhart.!';
+  l_varchar2(6) :=q'!14.08.2018 02:14:48.713900000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 02:14:48.712793000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 02:14:48.712961000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153345371311723327991234149121560165776!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCA5!';
+  l_varchar2(4) :=q'!147812139510252578985950930078303813645!';
+  l_clob(5) :=q'!14Aug18 - The quote has expired. Requested updated quote from Dawn Heyneke-Korb at Olympus - 021 480 775, dawn.heyneke-korb@olympus.co.nz 
+She is going to send the quote tomorrow morning as she is travelling this afternoon. 14/8/18 !';
+  l_varchar2(6) :=q'!14.08.2018 02:53:11.932949000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 02:53:11.861523000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 02:53:11.861646000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153346605268959234698392631089084262762!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCBT!';
+  l_varchar2(4) :=q'!148216009012054600985695401863193298861!';
+  l_clob(5) :=q'!14Aug18 - Sent to Alan Fowlie for project set up on 14/8/18.!';
+  l_varchar2(6) :=q'!14.08.2018 03:24:32.609242000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 03:24:32.608708000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 03:24:32.608919000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153346679361389334891732455522388728178!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCCC!';
+  l_varchar2(4) :=q'!151765790041978118820353078235425953843!';
+  l_clob(5) :=q'!14/8/18 - Sent to Paul Eldridge for project ID number. 14/8/18!';
+  l_varchar2(6) :=q'!14.08.2018 03:06:30.093043000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 03:06:30.091523000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 03:06:30.091661000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153348411416616107393999178675547543992!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCCH!';
+  l_varchar2(4) :=q'!143318270386173813614864245932472144118!';
+  l_clob(5) :=q'!Kelly has sent a copy of the excel form - this has an updated amount of $178,099. I have changed the approval amount, I don't think there is a need for the committee to provide an amended memo.!';
+  l_varchar2(6) :=q'!14.08.2018 03:30:21.478395000 +00:00!';
+  l_clob(7) :=q'!bessie.pone@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025318129740337371536037793264!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 03:30:21.476227000 +00:00!';
+  l_clob(13) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 03:30:21.476387000 +00:00!';
+  l_clob(15) :=q'!BESSIE.PONE@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153350982121618548738788137083322779783!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCCJ!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!14Aug18 - Alan Fowlie has set up project - CM18CFN1177 - 14/8/18.!';
+  l_varchar2(6) :=q'!14.08.2018 04:07:08.307061000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 04:07:08.305689000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 04:07:08.305818000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153423734887954602518025115155364111957!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCE3!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!15Aug18 - Joanne has emailed John Black on 15/8/18 to check if he wants Engineering to raise the requisition for the washing machine as it would be easier to co-ordinate the installation (which engineering is doing) with the delivery of the washing machine if it's handled by them.!';
+  l_varchar2(6) :=q'!14.08.2018 20:52:33.351481000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 20:52:33.334322000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 20:52:33.334475000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153424683174043597092460523635732169875!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCE5!';
+  l_varchar2(4) :=q'!127941466521463550294325322349189843998!';
+  l_clob(5) :=q'!15Aug18 - Gina has advised that the service now wants x 2 distraction lights, CER is for x 1. Also the quote from Superlight is a cash sale invoice dated 28 Feb 2017. Until the queries are resolved and there is a valid quote, this CER is on hold - 15/8/18.!';
+  l_varchar2(6) :=q'!14.08.2018 21:03:51.724543000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 21:03:51.724040000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 21:03:51.724191000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153426071772087265233620404140839334177!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCE9!';
+  l_varchar2(4) :=q'!148197801573262838882737096238151022968!';
+  l_clob(5) :=q'!15Aug18 - Angela Hall has advised that the CER has been signed by Debbie Minton and has been hand delivered to Mary Burr.!';
+  l_varchar2(6) :=q'!14.08.2018 21:22:09.302195000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 21:22:09.300790000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 21:22:09.300907000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153427846292479937424726398919068360747!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCEN!';
+  l_varchar2(4) :=q'!143813490590685842792849816197492692538!';
+  l_clob(5) :=q'!15Aug18 - 15Aug18 - Have sent Noel the PO number for data outlet installation - PO 1983753. He wants to get the ball rolling with Sharp - 15/8/18.!';
+  l_varchar2(6) :=q'!14.08.2018 21:45:28.469414000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 21:45:28.465424000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 21:45:28.465597000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153433645336042902265048800133466833319!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCF7!';
+  l_varchar2(4) :=q'!127941466521463550294325322349189843998!';
+  l_clob(5) :=q'!15Aug18 - The CER has been signed but it hasn't been scanned into signed CERs folder as it may be changed due to possible extra x 1 distraction lighting - this has not been confirmed as yet - 15/8/18.!';
+  l_varchar2(6) :=q'!14.08.2018 23:28:34.214746000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 23:28:34.203765000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 23:28:34.203912000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153436557894786878605114177081804887097!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCGH!';
+  l_varchar2(4) :=q'!147812139510252578985950930078303813645!';
+  l_clob(5) :=q'!15Aug18 - Dawn is working on the updated quote, prices increased on 1/7/18 but she is going to manipulate the discount to make sure the prices stay as they are. She aims to send the quote today - 15/8/18.!';
+  l_varchar2(6) :=q'!14.08.2018 23:46:35.870755000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!14.08.2018 23:46:35.870239000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!14.08.2018 23:46:35.870382000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153438781257805045024537536829835732946!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCGS!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!15Aug18 - Joanne has spoken to John Black about the installation of the washing machine. He has advised me to email the Engineering Helpdesk, copy in Mark Shirley and request a BEIMS order is raised for the installation which I have done. 
+I will need to advise them of the ETA of the washing machine delivery. !';
+  l_varchar2(6) :=q'!15.08.2018 00:18:59.575424000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!15.08.2018 00:18:59.570775000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!15.08.2018 00:18:59.570889000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153526038014102774022188306362205521328!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCLA!';
+  l_varchar2(4) :=q'!150732131568285176644829839596769249602!';
+  l_clob(5) :=q'!16Aug18 - Krishneil has not provided a quote. Please refer to his email in A&C folder which states it is difficult to obtain confirmed pricing for passive fire protection due to the nature of the works. 
+Sending out for signatures today - 16/8/18. !';
+  l_varchar2(6) :=q'!15.08.2018 20:29:23.425232000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!15.08.2018 20:29:23.409965000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!15.08.2018 20:29:23.410124000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153529273040579241217737831298867410095!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCLG!';
+  l_varchar2(4) :=q'!145380762642190594131512960538332920105!';
+  l_clob(5) :=q'!16Aug18 - The contact person at the Spinal Unit for the delivery of the washing machine is Brenda Lawson (Cleaning Team Leader) on 021 243 5314.She will need to liaise with Mark Shirley from Engineering as his team is doing the installation.!';
+  l_varchar2(6) :=q'!15.08.2018 21:05:26.442140000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!15.08.2018 21:05:26.439485000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!15.08.2018 21:05:26.439600000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153545655555202986923082147398196984132!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCOM!';
+  l_varchar2(4) :=q'!150497694951065631522164096342527057178!';
+  l_clob(5) :=q'!16Aug18 - CER hand delivered to Christine Lockhart for Phillip's signature - 16/8/18.!';
+  l_varchar2(6) :=q'!16.08.2018 02:09:16.781387000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!16.08.2018 02:09:16.778119000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!16.08.2018 02:09:16.778273000 +00:00!';
+  l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+
+  insert into ASSETS.EBA_PROJ_STATUS_UPDATES
+  (
+     ID
+    ,ROW_VERSION_NUMBER
+    ,ROW_KEY
+    ,PROJECT_ID
+    ,STATUS_UPDATE
+    ,UPDATE_DATE
+    ,UPDATE_OWNER
+    ,INCLUDE_ON_STATUS_RPT
+    ,CLASSIFICATION_ID
+    ,UPDATE_TYPE
+    ,TAGS
+    ,CREATED
+    ,CREATED_BY
+    ,UPDATED
+    ,UPDATED_BY
+  )
+  values
+  (
+     to_number(l_varchar2(1))
+    ,to_number(l_varchar2(2))
+    ,to_char(l_clob(3))
+    ,to_number(l_varchar2(4))
+    ,l_clob(5)
+    ,to_timestamp_tz(l_varchar2(6),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(7))
+    ,to_char(l_clob(8))
+    ,to_number(l_varchar2(9))
+    ,to_number(l_varchar2(10))
+    ,to_char(l_clob(11))
+    ,to_timestamp_tz(l_varchar2(12),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(13))
+    ,to_timestamp_tz(l_varchar2(14),'DD.MM.YYYY HH24:MI:SSXFF TZR')
+    ,to_char(l_clob(15))
+  );
+
+end;
+/
+declare
+  type   t_clob is table of clob index by binary_integer;
+  l_clob t_clob;
+  type   t_varchar2 is table of varchar2(64) index by binary_integer;
+  l_varchar2 t_varchar2;
+begin
+
+  l_varchar2(1) :=q'!153547394246332454128897036916238332433!';
+  l_varchar2(2) :=q'!1!';
+  l_clob(3) :=q'!BCN0!';
+  l_varchar2(4) :=q'!147812139510252578985950930078303813645!';
+  l_clob(5) :=q'!16Aug18 - Updated quote received. It is $18.52 less than the original quote. 
+Sent CER to Alan Fowlie for project set up on 16/8/18.!';
+  l_varchar2(6) :=q'!16.08.2018 01:18:38.929856000 +00:00!';
+  l_clob(7) :=q'!joanne.mchenry@middlemore.co.nz!';
+  l_clob(8) :=q'!Y!';
+  l_varchar2(9) :=q'!!';
+  l_varchar2(10) :=q'!80437231025322965443615830052736617968!';
+  l_clob(11) :=q'!!';
+  l_varchar2(12) :=q'!16.08.2018 01:18:38.927079000 +00:00!';
+  l_clob(13) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
+  l_varchar2(14) :=q'!16.08.2018 01:18:38.927249000 +00:00!';
   l_clob(15) :=q'!JOANNE.MCHENRY@MIDDLEMORE.CO.NZ!';
 
   insert into ASSETS.EBA_PROJ_STATUS_UPDATES

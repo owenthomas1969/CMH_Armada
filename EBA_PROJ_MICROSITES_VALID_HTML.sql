@@ -130,7 +130,7 @@ begin
 
   l_varchar2(1) :=q'!80437231025355606440745425040453684720!';
   l_clob(2) :=q'!link!';
-  l_clob(3) :=q'!a_href=""*"" a_href=""*""_target=""_blank"" a_name=""%"" a!';
+  l_clob(3) :=q'!a_href=* a_href=*_target=_blank a_name=% a!';
   l_clob(4) :=q'!allow!';
   l_clob(5) :=q'!ROY.MALTO@MIDDLEMORE.CO.NZ!';
   l_varchar2(6) :=q'!15.09.2016 03:38:42.207648000 +00:00!';

@@ -907,8 +907,8 @@ declare
 begin
 
   l_varchar2(1) :=q'!134518550693761377374779803568614204420!';
-  l_varchar2(2) :=q'!3!';
-  l_clob(3) :=q'!Urgent!';
+  l_varchar2(2) :=q'!4!';
+  l_clob(3) :=q'!Submitted!';
   l_clob(4) :=q'!N!';
   l_varchar2(5) :=q'!80437231025295160149764693581718375920!';
   l_clob(6) :=q'!Y!';
@@ -916,7 +916,7 @@ begin
   l_varchar2(8) :=q'!1!';
   l_varchar2(9) :=q'!14.02.2018 21:27:08.430331000 +00:00!';
   l_clob(10) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
-  l_varchar2(11) :=q'!22.02.2018 02:01:49.430185000 +00:00!';
+  l_varchar2(11) :=q'!16.07.2018 02:23:00.481925000 +00:00!';
   l_clob(12) :=q'!JUDE.HARRIS@MIDDLEMORE.CO.NZ!';
 
   insert into ASSETS.EBA_PROJ_STATUS_CODES
